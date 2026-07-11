@@ -1,5 +1,24 @@
 # SQL Practice
 
+This repository contains my SQL practice using MySQL Workbench.
+
+## Topics
+- CREATE DATABASE
+- CREATE TABLE
+- INSERT
+- SELECT
+- WHERE
+- DISTINCT
+- ORDER BY
+- LIMIT
+- UPDATE
+- DELETE
+- AND
+- OR
+- IN
+- BETWEEN
+- LIKE
+
 This repository contains my SQL practice programs and interview questions.
 
 ## Topics Covered
