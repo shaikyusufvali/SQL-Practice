@@ -1,0 +1,9 @@
+project_id,project_name,department_id,start_date,end_date,status
+1,Billing Rewrite,1,2023-01-09,2023-11-30,completed
+2,Mobile App v2,1,2023-06-01,,active
+3,Search Relevance,1,2024-01-15,,active
+4,Enterprise Pipeline,2,2023-03-20,2024-02-29,completed
+5,Partner Program,2,2024-02-05,,active
+6,Brand Refresh,3,2023-09-11,2024-01-19,completed
+7,Helpdesk Migration,4,2024-03-04,,active
+8,Cost Audit,5,2024-01-08,2024-04-30,completed
