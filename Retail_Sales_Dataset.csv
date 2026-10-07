@@ -1,0 +1,1001 @@
+order_id,customer_name,gender,age,city,state,product,category,quantity,unit_price,discount,total_amount,payment_method,order_date,salesperson
+1,Sneha,Female,39,Bengaluru,Karnataka,Chair,Furniture,2,4500,15,7650,Cash,2025-08-26,Aarav
+2,Rahul,Male,48,Pune,Maharashtra,Phone,Electronics,3,25000,15,63750,NetBanking,2025-11-04,Meena
+3,Yusuf,Male,19,Hyderabad,Telangana,Laptop,Electronics,3,55000,0,165000,Card,2025-06-06,Ahmed
+4,Diya,Female,54,Pune,Maharashtra,Shoes,Fashion,3,3000,10,8100,Cash,2025-12-26,Arjun
+5,Meena,Male,42,Delhi,Delhi,Phone,Electronics,3,25000,20,60000,NetBanking,2025-01-14,Vijay
+6,Rahul,Female,32,Hyderabad,Telangana,Laptop,Electronics,1,55000,5,52250,Card,2025-02-03,Anu
+7,Aarav,Female,49,Chennai,Tamil Nadu,Watch,Fashion,4,5000,5,19000,UPI,2025-09-01,Meena
+8,Neha,Male,29,Hyderabad,Telangana,Laptop,Electronics,4,55000,20,176000,UPI,2025-10-04,Meena
+9,Kiran,Female,33,Chennai,Tamil Nadu,Shoes,Fashion,4,3000,10,10800,Cash,2025-08-01,Meena
+10,Yusuf,Female,31,Chennai,Tamil Nadu,Phone,Electronics,4,25000,15,85000,UPI,2025-06-15,Yusuf
+11,Ahmed,Female,32,Pune,Maharashtra,Laptop,Electronics,4,55000,10,198000,Card,2025-01-02,Ravi
+12,Priya,Female,39,Bengaluru,Karnataka,Laptop,Electronics,5,55000,15,233750,UPI,2025-12-10,Aarav
+13,Rahul,Female,55,Mumbai,Maharashtra,Chair,Furniture,5,4500,10,20250,UPI,2025-06-16,Arjun
+14,Ravi,Male,23,Mumbai,Maharashtra,Phone,Electronics,5,25000,10,112500,Card,2025-10-13,Vijay
+15,Vijay,Male,34,Chennai,Tamil Nadu,Chair,Furniture,3,4500,5,12825,Cash,2025-04-14,Aarav
+16,Ahmed,Female,29,Delhi,Delhi,Laptop,Electronics,3,55000,0,165000,NetBanking,2025-02-25,Anu
+17,Diya,Male,42,Pune,Maharashtra,Shoes,Fashion,1,3000,10,2700,UPI,2025-11-16,Vijay
+18,Sneha,Male,24,Delhi,Delhi,TV,Electronics,2,42000,0,84000,NetBanking,2025-02-26,Meena
+19,Meena,Male,54,Hyderabad,Telangana,Table,Furniture,3,7000,0,21000,NetBanking,2025-03-29,Yusuf
+20,Ravi,Male,56,Chennai,Tamil Nadu,Phone,Electronics,1,25000,20,20000,UPI,2025-06-03,Arjun
+21,Yusuf,Male,56,Chennai,Tamil Nadu,Table,Furniture,3,7000,0,21000,Card,2025-09-23,Ravi
+22,Aarav,Male,21,Delhi,Delhi,Phone,Electronics,4,25000,5,95000,Card,2025-12-08,Vijay
+23,Sneha,Male,58,Hyderabad,Telangana,Rice,Grocery,4,1200,0,4800,Cash,2025-12-02,Aarav
+24,Aarav,Male,53,Mumbai,Maharashtra,Table,Furniture,4,7000,0,28000,Cash,2025-01-17,Neha
+25,Meena,Male,21,Mumbai,Maharashtra,Rice,Grocery,4,1200,0,4800,Card,2025-09-13,Ravi
+26,Arjun,Male,55,Hyderabad,Telangana,Watch,Fashion,1,5000,5,4750,UPI,2025-06-09,Meena
+27,Arjun,Male,51,Chennai,Tamil Nadu,Table,Furniture,2,7000,20,11200,UPI,2025-04-13,Meena
+28,Divya,Female,57,Chennai,Tamil Nadu,Laptop,Electronics,4,55000,15,187000,NetBanking,2025-02-06,Ravi
+29,Vijay,Female,41,Chennai,Tamil Nadu,Table,Furniture,2,7000,10,12600,NetBanking,2025-01-22,Kiran
+30,Vijay,Female,46,Pune,Maharashtra,Watch,Fashion,3,5000,10,13500,Cash,2025-03-07,Diya
+31,Ravi,Male,21,Chennai,Tamil Nadu,Table,Furniture,5,7000,20,28000,Cash,2025-09-11,Kiran
+32,Diya,Female,41,Mumbai,Maharashtra,Table,Furniture,3,7000,10,18900,Cash,2025-02-19,Vijay
+33,Diya,Female,35,Delhi,Delhi,Watch,Fashion,1,5000,5,4750,NetBanking,2025-07-11,Priya
+34,Diya,Female,56,Delhi,Delhi,Phone,Electronics,2,25000,0,50000,NetBanking,2025-04-05,Diya
+35,Meena,Female,52,Chennai,Tamil Nadu,Table,Furniture,5,7000,5,33250,UPI,2025-03-29,Arjun
+36,Ahmed,Female,28,Mumbai,Maharashtra,Watch,Fashion,3,5000,0,15000,NetBanking,2025-07-23,Anu
+37,Rahul,Female,38,Mumbai,Maharashtra,Chair,Furniture,2,4500,0,9000,UPI,2025-08-05,Aarav
+38,Meena,Male,28,Hyderabad,Telangana,Laptop,Electronics,1,55000,10,49500,Card,2025-06-12,Arjun
+39,Anu,Female,58,Bengaluru,Karnataka,Table,Furniture,5,7000,20,28000,UPI,2025-03-10,Kiran
+40,Yusuf,Male,32,Chennai,Tamil Nadu,TV,Electronics,1,42000,5,39900,UPI,2025-07-23,Ravi
+41,Divya,Female,60,Mumbai,Maharashtra,Chair,Furniture,5,4500,5,21375,Card,2025-03-01,Priya
+42,Sneha,Male,22,Pune,Maharashtra,Laptop,Electronics,3,55000,5,156750,UPI,2025-01-31,Neha
+43,Anu,Male,44,Bengaluru,Karnataka,Shoes,Fashion,2,3000,20,4800,UPI,2025-02-27,Rahul
+44,Neha,Female,38,Bengaluru,Karnataka,Table,Furniture,3,7000,5,19950,Cash,2025-04-03,Sneha
+45,Aarav,Female,41,Delhi,Delhi,Laptop,Electronics,1,55000,5,52250,NetBanking,2025-01-23,Ahmed
+46,Vijay,Male,44,Mumbai,Maharashtra,Phone,Electronics,3,25000,0,75000,NetBanking,2025-10-18,Anu
+47,Vijay,Male,58,Hyderabad,Telangana,Laptop,Electronics,2,55000,15,93500,Cash,2025-11-02,Anu
+48,Ahmed,Female,58,Mumbai,Maharashtra,Rice,Grocery,1,1200,0,1200,NetBanking,2025-08-16,Vijay
+49,Ahmed,Female,39,Delhi,Delhi,Chair,Furniture,2,4500,10,8100,NetBanking,2025-07-05,Divya
+50,Yusuf,Male,39,Pune,Maharashtra,Rice,Grocery,4,1200,10,4320,Card,2025-10-23,Arjun
+51,Priya,Female,40,Hyderabad,Telangana,Laptop,Electronics,5,55000,0,275000,UPI,2025-04-05,Vijay
+52,Ahmed,Female,18,Mumbai,Maharashtra,Watch,Fashion,2,5000,20,8000,UPI,2025-02-10,Priya
+53,Meena,Female,27,Hyderabad,Telangana,Watch,Fashion,5,5000,0,25000,NetBanking,2025-11-15,Meena
+54,Yusuf,Male,27,Chennai,Tamil Nadu,Rice,Grocery,2,1200,0,2400,NetBanking,2025-05-23,Vijay
+55,Yusuf,Female,60,Delhi,Delhi,Chair,Furniture,1,4500,0,4500,Card,2025-03-22,Ahmed
+56,Anu,Female,56,Hyderabad,Telangana,Laptop,Electronics,3,55000,10,148500,Card,2025-12-16,Vijay
+57,Rahul,Female,55,Hyderabad,Telangana,Phone,Electronics,5,25000,10,112500,Cash,2025-12-25,Sneha
+58,Anu,Male,45,Mumbai,Maharashtra,Chair,Furniture,5,4500,15,19125,Cash,2025-10-14,Vijay
+59,Ravi,Male,39,Pune,Maharashtra,Table,Furniture,4,7000,0,28000,NetBanking,2025-09-12,Yusuf
+60,Sneha,Male,20,Mumbai,Maharashtra,TV,Electronics,4,42000,15,142800,NetBanking,2025-06-11,Ravi
+61,Kiran,Female,57,Bengaluru,Karnataka,Watch,Fashion,5,5000,0,25000,NetBanking,2025-11-04,Anu
+62,Divya,Female,43,Chennai,Tamil Nadu,Rice,Grocery,4,1200,20,3840,UPI,2025-12-28,Anu
+63,Sneha,Female,25,Mumbai,Maharashtra,Laptop,Electronics,1,55000,20,44000,UPI,2025-11-25,Divya
+64,Aarav,Female,35,Chennai,Tamil Nadu,TV,Electronics,5,42000,0,210000,UPI,2025-03-14,Rahul
+65,Yusuf,Male,57,Chennai,Tamil Nadu,TV,Electronics,5,42000,15,178500,Card,2025-01-08,Rahul
+66,Diya,Female,39,Delhi,Delhi,Laptop,Electronics,5,55000,0,275000,Cash,2025-10-10,Arjun
+67,Rahul,Female,30,Hyderabad,Telangana,Table,Furniture,2,7000,10,12600,Card,2025-04-08,Diya
+68,Meena,Female,50,Delhi,Delhi,Shoes,Fashion,3,3000,20,7200,Cash,2025-03-21,Diya
+69,Ahmed,Female,23,Chennai,Tamil Nadu,Chair,Furniture,2,4500,20,7200,Card,2025-01-09,Priya
+70,Ravi,Female,40,Hyderabad,Telangana,Shoes,Fashion,5,3000,20,12000,NetBanking,2025-07-26,Diya
+71,Sneha,Female,49,Mumbai,Maharashtra,Laptop,Electronics,5,55000,0,275000,UPI,2025-01-11,Vijay
+72,Rahul,Female,59,Bengaluru,Karnataka,Laptop,Electronics,1,55000,0,55000,UPI,2025-03-19,Ahmed
+73,Vijay,Female,48,Bengaluru,Karnataka,Shoes,Fashion,5,3000,15,12750,Card,2025-11-15,Aarav
+74,Ravi,Female,46,Bengaluru,Karnataka,Chair,Furniture,2,4500,10,8100,Cash,2025-06-07,Ravi
+75,Neha,Female,25,Chennai,Tamil Nadu,Shoes,Fashion,1,3000,10,2700,NetBanking,2025-11-02,Neha
+76,Yusuf,Male,53,Pune,Maharashtra,Table,Furniture,3,7000,5,19950,NetBanking,2025-03-12,Kiran
+77,Neha,Male,28,Delhi,Delhi,TV,Electronics,4,42000,10,151200,Cash,2025-05-20,Ravi
+78,Yusuf,Male,58,Delhi,Delhi,Shoes,Fashion,3,3000,20,7200,NetBanking,2025-09-28,Arjun
+79,Ravi,Male,29,Chennai,Tamil Nadu,Chair,Furniture,4,4500,15,15300,UPI,2025-06-13,Kiran
+80,Ravi,Female,25,Hyderabad,Telangana,Rice,Grocery,4,1200,10,4320,Cash,2025-02-24,Yusuf
+81,Anu,Female,33,Hyderabad,Telangana,Watch,Fashion,3,5000,15,12750,UPI,2025-08-29,Neha
+82,Kiran,Female,32,Mumbai,Maharashtra,Shoes,Fashion,3,3000,0,9000,NetBanking,2025-12-03,Neha
+83,Ahmed,Female,46,Chennai,Tamil Nadu,Phone,Electronics,1,25000,0,25000,UPI,2025-03-06,Ahmed
+84,Arjun,Female,45,Chennai,Tamil Nadu,Rice,Grocery,3,1200,5,3420,UPI,2025-04-05,Arjun
+85,Arjun,Male,40,Chennai,Tamil Nadu,TV,Electronics,4,42000,15,142800,Cash,2025-10-28,Sneha
+86,Rahul,Female,51,Hyderabad,Telangana,Rice,Grocery,1,1200,10,1080,Card,2025-11-14,Ahmed
+87,Ahmed,Female,53,Chennai,Tamil Nadu,Phone,Electronics,2,25000,5,47500,UPI,2025-09-25,Vijay
+88,Diya,Male,60,Bengaluru,Karnataka,Rice,Grocery,5,1200,5,5700,NetBanking,2025-09-05,Arjun
+89,Priya,Female,27,Pune,Maharashtra,Chair,Furniture,2,4500,10,8100,NetBanking,2025-06-18,Sneha
+90,Divya,Female,46,Chennai,Tamil Nadu,TV,Electronics,1,42000,5,39900,Cash,2025-03-13,Divya
+91,Ravi,Male,44,Hyderabad,Telangana,Phone,Electronics,2,25000,20,40000,Cash,2025-11-17,Vijay
+92,Divya,Female,51,Delhi,Delhi,Watch,Fashion,3,5000,15,12750,NetBanking,2025-07-13,Vijay
+93,Ravi,Male,18,Chennai,Tamil Nadu,TV,Electronics,2,42000,20,67200,NetBanking,2025-08-29,Diya
+94,Neha,Male,25,Hyderabad,Telangana,Phone,Electronics,2,25000,0,50000,NetBanking,2025-05-21,Yusuf
+95,Divya,Female,57,Chennai,Tamil Nadu,Watch,Fashion,1,5000,15,4250,NetBanking,2025-11-18,Ravi
+96,Diya,Female,26,Bengaluru,Karnataka,Table,Furniture,1,7000,0,7000,NetBanking,2025-10-19,Neha
+97,Ravi,Male,55,Delhi,Delhi,Shoes,Fashion,3,3000,0,9000,Card,2025-10-03,Diya
+98,Priya,Male,27,Pune,Maharashtra,Shoes,Fashion,5,3000,15,12750,UPI,2025-12-30,Priya
+99,Rahul,Male,48,Delhi,Delhi,Chair,Furniture,4,4500,0,18000,Card,2025-01-02,Sneha
+100,Kiran,Female,20,Delhi,Delhi,Table,Furniture,3,7000,20,16800,UPI,2025-01-28,Aarav
+101,Yusuf,Male,39,Delhi,Delhi,TV,Electronics,3,42000,5,119700,Card,2025-03-17,Meena
+102,Ravi,Male,21,Pune,Maharashtra,Laptop,Electronics,2,55000,0,110000,NetBanking,2025-05-28,Kiran
+103,Ravi,Male,28,Chennai,Tamil Nadu,Watch,Fashion,3,5000,0,15000,NetBanking,2025-03-12,Sneha
+104,Divya,Female,48,Delhi,Delhi,Chair,Furniture,2,4500,10,8100,Card,2025-04-14,Arjun
+105,Sneha,Male,50,Bengaluru,Karnataka,Watch,Fashion,1,5000,0,5000,NetBanking,2025-12-04,Ahmed
+106,Ahmed,Male,32,Mumbai,Maharashtra,Laptop,Electronics,2,55000,20,88000,UPI,2025-01-16,Yusuf
+107,Neha,Female,56,Delhi,Delhi,Phone,Electronics,5,25000,15,106250,NetBanking,2025-04-12,Yusuf
+108,Divya,Female,57,Mumbai,Maharashtra,Watch,Fashion,2,5000,10,9000,Cash,2025-04-03,Vijay
+109,Meena,Female,19,Chennai,Tamil Nadu,Watch,Fashion,3,5000,20,12000,NetBanking,2025-08-27,Sneha
+110,Diya,Male,46,Bengaluru,Karnataka,Shoes,Fashion,1,3000,0,3000,UPI,2025-08-29,Meena
+111,Arjun,Female,45,Bengaluru,Karnataka,TV,Electronics,1,42000,20,33600,Card,2025-01-14,Divya
+112,Yusuf,Female,56,Mumbai,Maharashtra,Rice,Grocery,3,1200,15,3060,Card,2025-03-07,Yusuf
+113,Arjun,Female,57,Mumbai,Maharashtra,Chair,Furniture,3,4500,20,10800,Cash,2025-10-12,Diya
+114,Neha,Male,32,Chennai,Tamil Nadu,Laptop,Electronics,2,55000,0,110000,Card,2025-06-12,Diya
+115,Meena,Female,26,Mumbai,Maharashtra,Laptop,Electronics,1,55000,5,52250,NetBanking,2025-04-09,Ahmed
+116,Priya,Female,20,Bengaluru,Karnataka,Shoes,Fashion,4,3000,5,11400,Cash,2025-01-03,Kiran
+117,Vijay,Female,60,Mumbai,Maharashtra,Shoes,Fashion,1,3000,5,2850,UPI,2025-06-07,Yusuf
+118,Ahmed,Female,19,Pune,Maharashtra,TV,Electronics,2,42000,10,75600,Cash,2025-04-02,Arjun
+119,Priya,Female,57,Bengaluru,Karnataka,Rice,Grocery,5,1200,10,5400,NetBanking,2025-08-09,Ahmed
+120,Sneha,Male,21,Pune,Maharashtra,Watch,Fashion,1,5000,0,5000,UPI,2025-06-26,Meena
+121,Neha,Male,32,Mumbai,Maharashtra,Shoes,Fashion,3,3000,20,7200,Card,2025-11-30,Priya
+122,Ravi,Female,40,Pune,Maharashtra,Laptop,Electronics,3,55000,0,165000,NetBanking,2025-10-06,Diya
+123,Divya,Female,20,Hyderabad,Telangana,Watch,Fashion,2,5000,0,10000,Card,2025-05-03,Neha
+124,Anu,Female,31,Chennai,Tamil Nadu,Chair,Furniture,4,4500,10,16200,Cash,2025-07-09,Kiran
+125,Aarav,Female,41,Chennai,Tamil Nadu,Laptop,Electronics,5,55000,0,275000,Cash,2025-11-02,Meena
+126,Arjun,Male,30,Bengaluru,Karnataka,Chair,Furniture,2,4500,10,8100,Card,2025-07-05,Aarav
+127,Sneha,Female,24,Mumbai,Maharashtra,Laptop,Electronics,1,55000,20,44000,Cash,2025-06-30,Yusuf
+128,Vijay,Male,35,Chennai,Tamil Nadu,Table,Furniture,4,7000,5,26600,Cash,2025-07-24,Ravi
+129,Arjun,Male,54,Bengaluru,Karnataka,Shoes,Fashion,2,3000,10,5400,Card,2025-03-31,Anu
+130,Meena,Male,23,Pune,Maharashtra,Chair,Furniture,5,4500,10,20250,NetBanking,2025-06-16,Aarav
+131,Aarav,Male,52,Mumbai,Maharashtra,TV,Electronics,3,42000,10,113400,NetBanking,2025-07-12,Yusuf
+132,Divya,Male,47,Mumbai,Maharashtra,Phone,Electronics,3,25000,15,63750,Card,2025-05-16,Kiran
+133,Aarav,Male,29,Chennai,Tamil Nadu,TV,Electronics,2,42000,5,79800,Card,2025-03-15,Kiran
+134,Vijay,Male,29,Delhi,Delhi,Phone,Electronics,2,25000,20,40000,Cash,2025-05-23,Divya
+135,Rahul,Male,58,Chennai,Tamil Nadu,Rice,Grocery,5,1200,0,6000,UPI,2025-07-09,Neha
+136,Divya,Male,59,Bengaluru,Karnataka,Watch,Fashion,3,5000,0,15000,Card,2025-07-11,Rahul
+137,Rahul,Female,57,Bengaluru,Karnataka,Chair,Furniture,5,4500,10,20250,NetBanking,2025-01-22,Meena
+138,Diya,Male,37,Bengaluru,Karnataka,Chair,Furniture,2,4500,10,8100,UPI,2025-03-30,Kiran
+139,Anu,Male,56,Delhi,Delhi,Chair,Furniture,1,4500,20,3600,Card,2025-02-10,Anu
+140,Aarav,Female,46,Bengaluru,Karnataka,Rice,Grocery,5,1200,20,4800,NetBanking,2025-02-24,Aarav
+141,Vijay,Male,27,Delhi,Delhi,Laptop,Electronics,3,55000,20,132000,Card,2025-09-06,Diya
+142,Neha,Female,60,Chennai,Tamil Nadu,Rice,Grocery,3,1200,10,3240,Card,2025-10-24,Meena
+143,Divya,Male,25,Pune,Maharashtra,Table,Furniture,4,7000,5,26600,Cash,2025-04-23,Ravi
+144,Vijay,Male,24,Chennai,Tamil Nadu,TV,Electronics,5,42000,10,189000,NetBanking,2025-07-23,Yusuf
+145,Yusuf,Female,29,Mumbai,Maharashtra,Rice,Grocery,3,1200,10,3240,UPI,2025-02-07,Ahmed
+146,Yusuf,Male,36,Bengaluru,Karnataka,Watch,Fashion,4,5000,10,18000,Card,2025-12-08,Anu
+147,Kiran,Male,19,Hyderabad,Telangana,Shoes,Fashion,2,3000,5,5700,NetBanking,2025-09-12,Yusuf
+148,Anu,Male,41,Hyderabad,Telangana,TV,Electronics,4,42000,20,134400,Card,2025-12-25,Aarav
+149,Divya,Female,53,Bengaluru,Karnataka,Laptop,Electronics,2,55000,20,88000,NetBanking,2025-12-10,Rahul
+150,Sneha,Female,31,Chennai,Tamil Nadu,Shoes,Fashion,2,3000,10,5400,NetBanking,2025-09-03,Ahmed
+151,Meena,Female,47,Pune,Maharashtra,Phone,Electronics,2,25000,0,50000,Cash,2025-09-02,Yusuf
+152,Vijay,Male,26,Bengaluru,Karnataka,TV,Electronics,5,42000,5,199500,UPI,2025-08-17,Anu
+153,Meena,Female,49,Chennai,Tamil Nadu,Phone,Electronics,5,25000,5,118750,NetBanking,2025-11-06,Kiran
+154,Divya,Male,57,Bengaluru,Karnataka,Table,Furniture,3,7000,10,18900,UPI,2025-01-29,Priya
+155,Ahmed,Female,37,Delhi,Delhi,Shoes,Fashion,1,3000,10,2700,Cash,2025-01-23,Diya
+156,Ahmed,Female,39,Pune,Maharashtra,Watch,Fashion,1,5000,15,4250,UPI,2025-12-18,Arjun
+157,Aarav,Male,26,Pune,Maharashtra,Table,Furniture,5,7000,15,29750,UPI,2025-12-31,Divya
+158,Ravi,Male,44,Hyderabad,Telangana,Watch,Fashion,1,5000,15,4250,Cash,2025-04-18,Yusuf
+159,Meena,Female,38,Mumbai,Maharashtra,Table,Furniture,5,7000,20,28000,UPI,2025-07-04,Kiran
+160,Ahmed,Female,40,Pune,Maharashtra,Table,Furniture,4,7000,5,26600,Cash,2025-03-22,Sneha
+161,Arjun,Female,49,Mumbai,Maharashtra,TV,Electronics,4,42000,15,142800,UPI,2025-08-15,Priya
+162,Anu,Female,19,Chennai,Tamil Nadu,Laptop,Electronics,2,55000,20,88000,UPI,2025-03-22,Aarav
+163,Divya,Male,35,Mumbai,Maharashtra,Watch,Fashion,3,5000,20,12000,NetBanking,2025-03-23,Vijay
+164,Kiran,Male,30,Pune,Maharashtra,Rice,Grocery,4,1200,5,4560,NetBanking,2025-07-20,Anu
+165,Rahul,Female,26,Chennai,Tamil Nadu,Watch,Fashion,2,5000,0,10000,NetBanking,2025-04-27,Divya
+166,Priya,Female,33,Pune,Maharashtra,Phone,Electronics,1,25000,20,20000,NetBanking,2025-07-04,Ravi
+167,Priya,Female,55,Pune,Maharashtra,Shoes,Fashion,1,3000,20,2400,NetBanking,2025-03-04,Ravi
+168,Priya,Male,56,Pune,Maharashtra,Rice,Grocery,4,1200,10,4320,Cash,2025-07-26,Neha
+169,Priya,Female,45,Delhi,Delhi,Rice,Grocery,4,1200,10,4320,UPI,2025-04-06,Arjun
+170,Neha,Male,51,Delhi,Delhi,Chair,Furniture,5,4500,20,18000,UPI,2025-11-07,Yusuf
+171,Ahmed,Male,43,Delhi,Delhi,Table,Furniture,5,7000,5,33250,Cash,2025-01-10,Diya
+172,Vijay,Male,44,Bengaluru,Karnataka,Phone,Electronics,5,25000,0,125000,NetBanking,2025-01-09,Anu
+173,Aarav,Female,39,Hyderabad,Telangana,Chair,Furniture,2,4500,5,8550,Card,2025-08-05,Sneha
+174,Priya,Female,58,Delhi,Delhi,Phone,Electronics,1,25000,10,22500,Card,2025-11-29,Vijay
+175,Aarav,Female,39,Bengaluru,Karnataka,Table,Furniture,3,7000,5,19950,UPI,2025-05-27,Ahmed
+176,Sneha,Male,24,Mumbai,Maharashtra,TV,Electronics,3,42000,5,119700,Cash,2025-10-10,Aarav
+177,Yusuf,Female,44,Bengaluru,Karnataka,Chair,Furniture,5,4500,0,22500,Cash,2025-09-11,Ahmed
+178,Ravi,Female,18,Pune,Maharashtra,Chair,Furniture,3,4500,0,13500,Card,2025-12-09,Arjun
+179,Priya,Female,33,Pune,Maharashtra,Watch,Fashion,5,5000,20,20000,NetBanking,2025-11-29,Yusuf
+180,Meena,Male,60,Chennai,Tamil Nadu,TV,Electronics,5,42000,0,210000,Cash,2025-07-25,Arjun
+181,Sneha,Male,55,Pune,Maharashtra,Chair,Furniture,1,4500,15,3825,Cash,2025-05-24,Divya
+182,Arjun,Female,49,Pune,Maharashtra,Shoes,Fashion,3,3000,15,7650,UPI,2025-11-03,Ravi
+183,Rahul,Female,51,Chennai,Tamil Nadu,Table,Furniture,1,7000,20,5600,NetBanking,2025-04-07,Aarav
+184,Yusuf,Female,36,Bengaluru,Karnataka,Rice,Grocery,5,1200,5,5700,UPI,2025-03-20,Vijay
+185,Meena,Female,45,Delhi,Delhi,Laptop,Electronics,4,55000,0,220000,Card,2025-03-30,Yusuf
+186,Divya,Male,27,Chennai,Tamil Nadu,Rice,Grocery,1,1200,15,1020,UPI,2025-06-25,Rahul
+187,Priya,Male,29,Pune,Maharashtra,Laptop,Electronics,1,55000,15,46750,NetBanking,2025-08-02,Priya
+188,Divya,Male,55,Bengaluru,Karnataka,TV,Electronics,2,42000,10,75600,UPI,2025-07-03,Anu
+189,Meena,Female,36,Bengaluru,Karnataka,Watch,Fashion,2,5000,20,8000,Cash,2025-12-25,Aarav
+190,Yusuf,Female,31,Bengaluru,Karnataka,Watch,Fashion,1,5000,10,4500,NetBanking,2025-01-08,Sneha
+191,Ravi,Male,36,Hyderabad,Telangana,TV,Electronics,4,42000,5,159600,Card,2025-02-27,Yusuf
+192,Neha,Male,53,Mumbai,Maharashtra,Table,Furniture,4,7000,0,28000,Cash,2025-10-07,Ahmed
+193,Arjun,Male,34,Pune,Maharashtra,Watch,Fashion,4,5000,15,17000,Card,2025-03-26,Diya
+194,Divya,Female,33,Delhi,Delhi,TV,Electronics,5,42000,0,210000,UPI,2025-02-04,Yusuf
+195,Sneha,Female,43,Pune,Maharashtra,Phone,Electronics,3,25000,15,63750,NetBanking,2025-03-14,Ravi
+196,Meena,Female,46,Mumbai,Maharashtra,Table,Furniture,2,7000,10,12600,Cash,2025-06-16,Kiran
+197,Ravi,Female,24,Pune,Maharashtra,Shoes,Fashion,5,3000,5,14250,NetBanking,2025-03-27,Yusuf
+198,Priya,Female,29,Chennai,Tamil Nadu,TV,Electronics,4,42000,5,159600,UPI,2025-01-01,Diya
+199,Priya,Male,37,Delhi,Delhi,Rice,Grocery,1,1200,0,1200,Card,2025-05-15,Ahmed
+200,Anu,Female,20,Mumbai,Maharashtra,Table,Furniture,2,7000,0,14000,UPI,2025-02-10,Rahul
+201,Neha,Female,38,Delhi,Delhi,Shoes,Fashion,2,3000,0,6000,NetBanking,2025-11-08,Diya
+202,Meena,Female,24,Hyderabad,Telangana,TV,Electronics,2,42000,20,67200,Card,2025-07-03,Sneha
+203,Neha,Male,20,Delhi,Delhi,Phone,Electronics,3,25000,20,60000,NetBanking,2025-11-24,Neha
+204,Diya,Male,36,Chennai,Tamil Nadu,Chair,Furniture,2,4500,0,9000,Card,2025-05-13,Rahul
+205,Diya,Female,28,Hyderabad,Telangana,Shoes,Fashion,5,3000,20,12000,Cash,2025-05-20,Neha
+206,Sneha,Female,45,Mumbai,Maharashtra,Watch,Fashion,2,5000,20,8000,Card,2025-05-25,Sneha
+207,Kiran,Female,47,Bengaluru,Karnataka,Table,Furniture,2,7000,10,12600,UPI,2025-12-10,Arjun
+208,Yusuf,Male,33,Bengaluru,Karnataka,Laptop,Electronics,4,55000,10,198000,UPI,2025-09-09,Sneha
+209,Neha,Male,48,Mumbai,Maharashtra,TV,Electronics,2,42000,0,84000,Cash,2025-09-21,Arjun
+210,Yusuf,Male,44,Hyderabad,Telangana,Rice,Grocery,4,1200,20,3840,UPI,2025-07-07,Neha
+211,Yusuf,Male,27,Pune,Maharashtra,Table,Furniture,5,7000,20,28000,UPI,2025-12-14,Priya
+212,Divya,Male,53,Hyderabad,Telangana,Rice,Grocery,3,1200,0,3600,NetBanking,2025-10-26,Meena
+213,Rahul,Female,50,Bengaluru,Karnataka,Chair,Furniture,2,4500,15,7650,UPI,2025-03-27,Ahmed
+214,Yusuf,Female,23,Hyderabad,Telangana,Chair,Furniture,5,4500,5,21375,NetBanking,2025-12-16,Aarav
+215,Divya,Male,51,Delhi,Delhi,TV,Electronics,4,42000,0,168000,UPI,2025-02-07,Kiran
+216,Divya,Female,58,Delhi,Delhi,Watch,Fashion,4,5000,10,18000,NetBanking,2025-01-14,Diya
+217,Neha,Female,26,Chennai,Tamil Nadu,Rice,Grocery,5,1200,5,5700,UPI,2025-04-02,Ravi
+218,Vijay,Female,20,Bengaluru,Karnataka,Table,Furniture,2,7000,5,13300,NetBanking,2025-01-13,Kiran
+219,Priya,Male,41,Pune,Maharashtra,TV,Electronics,4,42000,15,142800,Cash,2025-05-24,Sneha
+220,Sneha,Female,39,Delhi,Delhi,TV,Electronics,1,42000,5,39900,NetBanking,2025-04-06,Ravi
+221,Kiran,Male,31,Chennai,Tamil Nadu,Rice,Grocery,1,1200,15,1020,Cash,2025-03-20,Arjun
+222,Aarav,Male,48,Delhi,Delhi,TV,Electronics,1,42000,5,39900,UPI,2025-08-09,Sneha
+223,Diya,Male,50,Mumbai,Maharashtra,Chair,Furniture,4,4500,0,18000,Card,2025-02-27,Meena
+224,Sneha,Male,38,Hyderabad,Telangana,Laptop,Electronics,3,55000,5,156750,Card,2025-02-01,Vijay
+225,Neha,Female,37,Hyderabad,Telangana,TV,Electronics,5,42000,20,168000,Cash,2025-02-28,Aarav
+226,Diya,Female,18,Chennai,Tamil Nadu,Laptop,Electronics,3,55000,15,140250,NetBanking,2025-10-01,Ravi
+227,Diya,Male,20,Pune,Maharashtra,Phone,Electronics,5,25000,0,125000,NetBanking,2025-05-06,Diya
+228,Ahmed,Male,53,Mumbai,Maharashtra,Laptop,Electronics,3,55000,20,132000,UPI,2025-04-02,Rahul
+229,Ahmed,Female,54,Bengaluru,Karnataka,Rice,Grocery,1,1200,5,1140,NetBanking,2025-09-27,Diya
+230,Arjun,Male,29,Hyderabad,Telangana,Watch,Fashion,1,5000,5,4750,Card,2025-01-30,Yusuf
+231,Neha,Female,23,Hyderabad,Telangana,Laptop,Electronics,2,55000,20,88000,Card,2025-09-02,Arjun
+232,Arjun,Female,21,Bengaluru,Karnataka,Chair,Furniture,5,4500,10,20250,NetBanking,2025-12-01,Diya
+233,Vijay,Male,52,Pune,Maharashtra,Rice,Grocery,5,1200,10,5400,Card,2025-03-18,Vijay
+234,Sneha,Female,37,Delhi,Delhi,Rice,Grocery,4,1200,5,4560,Card,2025-09-04,Sneha
+235,Yusuf,Male,26,Chennai,Tamil Nadu,Table,Furniture,5,7000,20,28000,Card,2025-12-06,Priya
+236,Arjun,Male,32,Chennai,Tamil Nadu,Shoes,Fashion,4,3000,10,10800,NetBanking,2025-06-18,Neha
+237,Priya,Female,45,Hyderabad,Telangana,Shoes,Fashion,4,3000,20,9600,UPI,2025-12-27,Meena
+238,Neha,Female,60,Bengaluru,Karnataka,Shoes,Fashion,1,3000,0,3000,UPI,2025-05-30,Ahmed
+239,Sneha,Male,23,Chennai,Tamil Nadu,Laptop,Electronics,3,55000,0,165000,Card,2025-11-14,Sneha
+240,Yusuf,Male,27,Bengaluru,Karnataka,Phone,Electronics,1,25000,10,22500,Cash,2025-08-22,Meena
+241,Vijay,Female,22,Pune,Maharashtra,Laptop,Electronics,4,55000,0,220000,Cash,2025-02-10,Priya
+242,Rahul,Female,45,Bengaluru,Karnataka,TV,Electronics,3,42000,15,107100,Card,2025-12-08,Aarav
+243,Diya,Female,18,Pune,Maharashtra,Chair,Furniture,4,4500,10,16200,Cash,2025-01-05,Aarav
+244,Anu,Male,41,Delhi,Delhi,Laptop,Electronics,2,55000,15,93500,UPI,2025-10-28,Meena
+245,Meena,Female,23,Mumbai,Maharashtra,Phone,Electronics,4,25000,15,85000,Card,2025-10-31,Divya
+246,Divya,Male,29,Mumbai,Maharashtra,Chair,Furniture,5,4500,15,19125,NetBanking,2025-09-27,Yusuf
+247,Priya,Male,39,Mumbai,Maharashtra,Rice,Grocery,2,1200,5,2280,Card,2025-01-26,Aarav
+248,Divya,Female,38,Pune,Maharashtra,Shoes,Fashion,1,3000,15,2550,Card,2025-06-05,Anu
+249,Anu,Female,59,Pune,Maharashtra,TV,Electronics,3,42000,20,100800,NetBanking,2025-02-23,Neha
+250,Kiran,Male,37,Chennai,Tamil Nadu,Chair,Furniture,5,4500,5,21375,Cash,2025-04-19,Aarav
+251,Yusuf,Male,38,Hyderabad,Telangana,Watch,Fashion,1,5000,10,4500,NetBanking,2025-03-23,Ahmed
+252,Meena,Male,24,Bengaluru,Karnataka,Chair,Furniture,3,4500,15,11475,Card,2025-07-20,Neha
+253,Anu,Male,48,Pune,Maharashtra,Chair,Furniture,4,4500,10,16200,NetBanking,2025-11-28,Diya
+254,Neha,Male,19,Pune,Maharashtra,Rice,Grocery,3,1200,15,3060,UPI,2025-01-01,Ahmed
+255,Yusuf,Male,18,Mumbai,Maharashtra,Laptop,Electronics,1,55000,5,52250,NetBanking,2025-07-14,Meena
+256,Vijay,Female,44,Bengaluru,Karnataka,Table,Furniture,3,7000,5,19950,Cash,2025-12-05,Ravi
+257,Vijay,Male,53,Delhi,Delhi,Shoes,Fashion,3,3000,0,9000,NetBanking,2025-05-28,Vijay
+258,Rahul,Male,54,Mumbai,Maharashtra,Table,Furniture,4,7000,5,26600,UPI,2025-09-13,Ravi
+259,Meena,Male,21,Pune,Maharashtra,Table,Furniture,2,7000,15,11900,Card,2025-07-30,Diya
+260,Sneha,Male,45,Hyderabad,Telangana,Laptop,Electronics,1,55000,0,55000,UPI,2025-10-08,Divya
+261,Sneha,Female,26,Pune,Maharashtra,Chair,Furniture,2,4500,0,9000,Cash,2025-10-05,Meena
+262,Diya,Male,59,Pune,Maharashtra,Table,Furniture,2,7000,5,13300,Card,2025-12-06,Aarav
+263,Yusuf,Male,47,Delhi,Delhi,Laptop,Electronics,4,55000,20,176000,UPI,2025-05-28,Kiran
+264,Diya,Female,56,Chennai,Tamil Nadu,Table,Furniture,3,7000,10,18900,Card,2025-12-23,Divya
+265,Priya,Female,25,Bengaluru,Karnataka,Rice,Grocery,2,1200,10,2160,Card,2025-05-09,Arjun
+266,Sneha,Female,53,Mumbai,Maharashtra,Phone,Electronics,5,25000,10,112500,Card,2025-08-04,Neha
+267,Yusuf,Female,54,Bengaluru,Karnataka,TV,Electronics,1,42000,15,35700,Cash,2025-11-03,Arjun
+268,Yusuf,Female,53,Hyderabad,Telangana,Shoes,Fashion,1,3000,20,2400,Card,2025-04-05,Aarav
+269,Diya,Female,23,Chennai,Tamil Nadu,Table,Furniture,3,7000,0,21000,UPI,2025-04-13,Vijay
+270,Kiran,Female,58,Mumbai,Maharashtra,Laptop,Electronics,5,55000,0,275000,Card,2025-10-26,Priya
+271,Diya,Male,21,Chennai,Tamil Nadu,Watch,Fashion,4,5000,0,20000,Card,2025-03-24,Meena
+272,Yusuf,Male,58,Chennai,Tamil Nadu,Laptop,Electronics,4,55000,0,220000,UPI,2025-10-10,Divya
+273,Sneha,Female,47,Bengaluru,Karnataka,Table,Furniture,1,7000,0,7000,NetBanking,2025-08-22,Meena
+274,Sneha,Male,31,Pune,Maharashtra,Laptop,Electronics,1,55000,5,52250,NetBanking,2025-04-27,Rahul
+275,Ravi,Male,52,Hyderabad,Telangana,Laptop,Electronics,1,55000,20,44000,NetBanking,2025-01-24,Vijay
+276,Yusuf,Female,33,Mumbai,Maharashtra,Watch,Fashion,2,5000,15,8500,UPI,2025-12-10,Sneha
+277,Rahul,Female,59,Delhi,Delhi,Rice,Grocery,4,1200,5,4560,NetBanking,2025-04-11,Vijay
+278,Arjun,Female,22,Pune,Maharashtra,Watch,Fashion,2,5000,0,10000,NetBanking,2025-10-14,Divya
+279,Anu,Female,29,Pune,Maharashtra,Table,Furniture,3,7000,20,16800,UPI,2025-02-26,Arjun
+280,Arjun,Male,52,Delhi,Delhi,Watch,Fashion,3,5000,5,14250,Cash,2025-04-08,Diya
+281,Ravi,Male,47,Bengaluru,Karnataka,Chair,Furniture,4,4500,10,16200,Cash,2025-09-09,Sneha
+282,Arjun,Female,25,Delhi,Delhi,TV,Electronics,1,42000,5,39900,Card,2025-03-28,Meena
+283,Priya,Male,53,Chennai,Tamil Nadu,Rice,Grocery,3,1200,10,3240,UPI,2025-12-19,Kiran
+284,Divya,Male,28,Delhi,Delhi,Rice,Grocery,1,1200,5,1140,Cash,2025-09-04,Sneha
+285,Ahmed,Male,28,Mumbai,Maharashtra,Chair,Furniture,2,4500,20,7200,NetBanking,2025-04-12,Priya
+286,Arjun,Female,20,Delhi,Delhi,Laptop,Electronics,2,55000,20,88000,NetBanking,2025-06-14,Anu
+287,Yusuf,Female,26,Delhi,Delhi,Rice,Grocery,5,1200,0,6000,Cash,2025-03-27,Neha
+288,Arjun,Male,29,Chennai,Tamil Nadu,Watch,Fashion,2,5000,15,8500,Card,2025-08-26,Priya
+289,Arjun,Female,56,Chennai,Tamil Nadu,Rice,Grocery,2,1200,10,2160,Cash,2025-07-04,Rahul
+290,Yusuf,Female,41,Hyderabad,Telangana,Phone,Electronics,4,25000,10,90000,Card,2025-08-08,Anu
+291,Vijay,Male,59,Chennai,Tamil Nadu,Chair,Furniture,3,4500,15,11475,UPI,2025-07-21,Priya
+292,Neha,Male,42,Hyderabad,Telangana,Phone,Electronics,3,25000,15,63750,NetBanking,2025-12-08,Meena
+293,Neha,Female,45,Delhi,Delhi,TV,Electronics,5,42000,20,168000,Cash,2025-06-27,Anu
+294,Priya,Male,19,Hyderabad,Telangana,Watch,Fashion,5,5000,20,20000,UPI,2025-06-28,Arjun
+295,Vijay,Female,19,Delhi,Delhi,Phone,Electronics,3,25000,5,71250,Cash,2025-04-06,Ravi
+296,Divya,Male,20,Mumbai,Maharashtra,Rice,Grocery,5,1200,15,5100,Card,2025-08-20,Priya
+297,Divya,Male,53,Delhi,Delhi,Laptop,Electronics,4,55000,0,220000,Card,2025-12-12,Priya
+298,Rahul,Female,60,Mumbai,Maharashtra,Shoes,Fashion,4,3000,0,12000,UPI,2025-04-26,Meena
+299,Arjun,Female,46,Pune,Maharashtra,Table,Furniture,2,7000,20,11200,Card,2025-12-28,Anu
+300,Ahmed,Male,51,Mumbai,Maharashtra,Watch,Fashion,1,5000,0,5000,Cash,2025-11-16,Aarav
+301,Ahmed,Male,21,Mumbai,Maharashtra,Watch,Fashion,4,5000,5,19000,Cash,2025-10-02,Ravi
+302,Anu,Female,20,Mumbai,Maharashtra,Laptop,Electronics,1,55000,5,52250,Card,2025-08-10,Neha
+303,Meena,Male,32,Bengaluru,Karnataka,Watch,Fashion,3,5000,0,15000,UPI,2025-08-27,Ravi
+304,Ahmed,Female,31,Hyderabad,Telangana,Laptop,Electronics,4,55000,0,220000,Card,2025-10-31,Aarav
+305,Yusuf,Female,36,Hyderabad,Telangana,Shoes,Fashion,3,3000,5,8550,Card,2025-01-05,Rahul
+306,Vijay,Male,35,Delhi,Delhi,TV,Electronics,2,42000,5,79800,Cash,2025-09-03,Vijay
+307,Yusuf,Male,50,Hyderabad,Telangana,Watch,Fashion,2,5000,15,8500,Card,2025-03-20,Vijay
+308,Neha,Female,19,Mumbai,Maharashtra,Rice,Grocery,1,1200,15,1020,Cash,2025-02-05,Meena
+309,Sneha,Female,58,Pune,Maharashtra,Laptop,Electronics,2,55000,15,93500,NetBanking,2025-02-14,Ahmed
+310,Priya,Male,60,Mumbai,Maharashtra,Chair,Furniture,5,4500,0,22500,Cash,2025-08-08,Aarav
+311,Yusuf,Male,26,Hyderabad,Telangana,Chair,Furniture,4,4500,20,14400,Card,2025-03-26,Priya
+312,Kiran,Male,30,Pune,Maharashtra,TV,Electronics,1,42000,20,33600,UPI,2025-04-19,Sneha
+313,Sneha,Female,44,Delhi,Delhi,Shoes,Fashion,2,3000,10,5400,Card,2025-12-25,Kiran
+314,Sneha,Male,60,Bengaluru,Karnataka,Rice,Grocery,4,1200,0,4800,UPI,2025-04-17,Sneha
+315,Priya,Male,27,Mumbai,Maharashtra,Phone,Electronics,1,25000,20,20000,NetBanking,2025-01-19,Rahul
+316,Vijay,Male,43,Bengaluru,Karnataka,TV,Electronics,2,42000,5,79800,Cash,2025-05-01,Kiran
+317,Priya,Male,53,Delhi,Delhi,Watch,Fashion,1,5000,5,4750,NetBanking,2025-01-09,Divya
+318,Anu,Female,33,Chennai,Tamil Nadu,Laptop,Electronics,2,55000,5,104500,Cash,2025-10-05,Sneha
+319,Neha,Male,28,Hyderabad,Telangana,Watch,Fashion,4,5000,0,20000,Card,2025-08-30,Yusuf
+320,Ahmed,Female,45,Chennai,Tamil Nadu,Chair,Furniture,4,4500,20,14400,Cash,2025-11-14,Kiran
+321,Ahmed,Male,54,Bengaluru,Karnataka,Table,Furniture,3,7000,10,18900,UPI,2025-12-24,Rahul
+322,Meena,Male,27,Mumbai,Maharashtra,Chair,Furniture,2,4500,15,7650,Cash,2025-06-16,Neha
+323,Arjun,Female,43,Bengaluru,Karnataka,Phone,Electronics,3,25000,10,67500,NetBanking,2025-03-30,Priya
+324,Priya,Female,25,Bengaluru,Karnataka,Laptop,Electronics,4,55000,0,220000,UPI,2025-04-30,Rahul
+325,Aarav,Female,26,Mumbai,Maharashtra,TV,Electronics,4,42000,0,168000,Card,2025-11-15,Priya
+326,Ahmed,Male,57,Mumbai,Maharashtra,Watch,Fashion,2,5000,15,8500,NetBanking,2025-04-10,Anu
+327,Sneha,Female,32,Mumbai,Maharashtra,Laptop,Electronics,1,55000,0,55000,NetBanking,2025-11-14,Neha
+328,Diya,Female,43,Bengaluru,Karnataka,Phone,Electronics,5,25000,5,118750,Card,2025-08-09,Priya
+329,Sneha,Female,40,Mumbai,Maharashtra,Watch,Fashion,5,5000,10,22500,UPI,2025-01-16,Divya
+330,Priya,Female,30,Delhi,Delhi,Laptop,Electronics,3,55000,0,165000,UPI,2025-07-25,Sneha
+331,Kiran,Male,27,Pune,Maharashtra,Laptop,Electronics,1,55000,5,52250,NetBanking,2025-12-06,Priya
+332,Diya,Male,32,Hyderabad,Telangana,Table,Furniture,4,7000,15,23800,NetBanking,2025-07-25,Kiran
+333,Ravi,Male,37,Mumbai,Maharashtra,Watch,Fashion,5,5000,20,20000,Card,2025-07-17,Arjun
+334,Kiran,Male,20,Bengaluru,Karnataka,Shoes,Fashion,2,3000,10,5400,NetBanking,2025-10-29,Sneha
+335,Meena,Male,48,Pune,Maharashtra,TV,Electronics,5,42000,0,210000,Cash,2025-08-22,Vijay
+336,Meena,Female,25,Mumbai,Maharashtra,Shoes,Fashion,2,3000,10,5400,UPI,2025-01-25,Neha
+337,Neha,Male,52,Chennai,Tamil Nadu,Shoes,Fashion,3,3000,10,8100,NetBanking,2025-02-28,Rahul
+338,Anu,Female,56,Chennai,Tamil Nadu,Rice,Grocery,4,1200,20,3840,Cash,2025-09-13,Anu
+339,Meena,Female,56,Bengaluru,Karnataka,Phone,Electronics,3,25000,10,67500,NetBanking,2025-11-13,Aarav
+340,Arjun,Female,60,Hyderabad,Telangana,Chair,Furniture,5,4500,10,20250,NetBanking,2025-06-23,Ahmed
+341,Ahmed,Male,47,Mumbai,Maharashtra,Rice,Grocery,5,1200,20,4800,UPI,2025-04-14,Divya
+342,Vijay,Male,22,Hyderabad,Telangana,Rice,Grocery,3,1200,20,2880,UPI,2025-12-22,Kiran
+343,Aarav,Male,53,Pune,Maharashtra,Watch,Fashion,3,5000,5,14250,Cash,2025-01-21,Aarav
+344,Ravi,Male,30,Pune,Maharashtra,Chair,Furniture,2,4500,10,8100,Cash,2025-11-02,Ahmed
+345,Diya,Female,36,Delhi,Delhi,TV,Electronics,4,42000,20,134400,Cash,2025-07-13,Meena
+346,Diya,Female,50,Mumbai,Maharashtra,Rice,Grocery,3,1200,20,2880,Card,2025-12-23,Arjun
+347,Yusuf,Female,59,Pune,Maharashtra,Watch,Fashion,3,5000,20,12000,UPI,2025-11-09,Anu
+348,Divya,Female,32,Bengaluru,Karnataka,Chair,Furniture,2,4500,20,7200,Card,2025-06-07,Anu
+349,Meena,Female,58,Bengaluru,Karnataka,TV,Electronics,5,42000,20,168000,Cash,2025-07-27,Ahmed
+350,Arjun,Female,19,Delhi,Delhi,Laptop,Electronics,4,55000,15,187000,UPI,2025-12-26,Rahul
+351,Divya,Female,46,Bengaluru,Karnataka,Laptop,Electronics,2,55000,15,93500,UPI,2025-08-24,Yusuf
+352,Priya,Male,36,Hyderabad,Telangana,Chair,Furniture,2,4500,10,8100,Card,2025-03-02,Priya
+353,Neha,Male,59,Bengaluru,Karnataka,Watch,Fashion,5,5000,5,23750,NetBanking,2025-04-24,Neha
+354,Diya,Male,30,Bengaluru,Karnataka,Watch,Fashion,4,5000,5,19000,NetBanking,2025-12-30,Diya
+355,Priya,Male,56,Hyderabad,Telangana,Chair,Furniture,5,4500,15,19125,Cash,2025-08-13,Vijay
+356,Anu,Male,40,Pune,Maharashtra,Phone,Electronics,1,25000,10,22500,NetBanking,2025-10-23,Priya
+357,Ravi,Female,34,Chennai,Tamil Nadu,Laptop,Electronics,3,55000,10,148500,Card,2025-11-27,Rahul
+358,Priya,Male,30,Chennai,Tamil Nadu,Shoes,Fashion,1,3000,20,2400,Cash,2025-11-28,Rahul
+359,Anu,Male,43,Hyderabad,Telangana,TV,Electronics,3,42000,20,100800,Card,2025-08-11,Kiran
+360,Diya,Female,35,Mumbai,Maharashtra,Rice,Grocery,1,1200,10,1080,UPI,2025-01-01,Divya
+361,Anu,Female,35,Hyderabad,Telangana,Rice,Grocery,4,1200,20,3840,Card,2025-07-26,Ahmed
+362,Vijay,Female,60,Hyderabad,Telangana,Rice,Grocery,4,1200,20,3840,Card,2025-10-30,Divya
+363,Vijay,Female,38,Bengaluru,Karnataka,Laptop,Electronics,5,55000,10,247500,Cash,2025-05-03,Yusuf
+364,Diya,Female,43,Pune,Maharashtra,Table,Furniture,1,7000,0,7000,Card,2025-11-21,Ravi
+365,Sneha,Female,59,Hyderabad,Telangana,Phone,Electronics,4,25000,5,95000,UPI,2025-11-22,Divya
+366,Vijay,Female,42,Chennai,Tamil Nadu,Rice,Grocery,2,1200,20,1920,Card,2025-04-04,Aarav
+367,Vijay,Female,40,Bengaluru,Karnataka,Table,Furniture,1,7000,15,5950,UPI,2025-09-10,Neha
+368,Ahmed,Male,33,Pune,Maharashtra,Phone,Electronics,2,25000,10,45000,Cash,2025-12-02,Ahmed
+369,Priya,Female,34,Hyderabad,Telangana,Chair,Furniture,2,4500,15,7650,Card,2025-01-24,Priya
+370,Priya,Male,30,Bengaluru,Karnataka,Table,Furniture,3,7000,15,17850,NetBanking,2025-10-23,Anu
+371,Diya,Male,46,Hyderabad,Telangana,Chair,Furniture,3,4500,15,11475,UPI,2025-02-28,Ahmed
+372,Ravi,Male,22,Chennai,Tamil Nadu,Phone,Electronics,2,25000,0,50000,UPI,2025-01-11,Rahul
+373,Aarav,Male,53,Hyderabad,Telangana,Watch,Fashion,3,5000,15,12750,UPI,2025-03-13,Aarav
+374,Rahul,Male,33,Hyderabad,Telangana,Watch,Fashion,3,5000,0,15000,NetBanking,2025-09-08,Neha
+375,Diya,Female,57,Mumbai,Maharashtra,Shoes,Fashion,4,3000,5,11400,Card,2025-03-28,Ahmed
+376,Yusuf,Female,51,Mumbai,Maharashtra,TV,Electronics,2,42000,20,67200,NetBanking,2025-05-30,Aarav
+377,Arjun,Male,40,Pune,Maharashtra,Watch,Fashion,3,5000,15,12750,UPI,2025-09-07,Vijay
+378,Meena,Female,36,Hyderabad,Telangana,Phone,Electronics,4,25000,5,95000,NetBanking,2025-09-03,Diya
+379,Anu,Female,31,Hyderabad,Telangana,Table,Furniture,1,7000,0,7000,UPI,2025-12-09,Meena
+380,Ahmed,Female,40,Mumbai,Maharashtra,TV,Electronics,2,42000,20,67200,NetBanking,2025-06-20,Ravi
+381,Meena,Female,20,Bengaluru,Karnataka,TV,Electronics,2,42000,5,79800,Cash,2025-06-11,Meena
+382,Rahul,Female,56,Hyderabad,Telangana,TV,Electronics,3,42000,5,119700,Card,2025-07-07,Vijay
+383,Sneha,Male,32,Bengaluru,Karnataka,Rice,Grocery,4,1200,20,3840,NetBanking,2025-08-26,Priya
+384,Divya,Male,46,Bengaluru,Karnataka,Watch,Fashion,2,5000,15,8500,NetBanking,2025-08-02,Kiran
+385,Divya,Female,21,Hyderabad,Telangana,Phone,Electronics,2,25000,10,45000,UPI,2025-07-11,Ravi
+386,Kiran,Male,18,Pune,Maharashtra,Watch,Fashion,3,5000,0,15000,UPI,2025-02-18,Kiran
+387,Neha,Male,55,Hyderabad,Telangana,Chair,Furniture,4,4500,15,15300,Card,2025-03-17,Diya
+388,Kiran,Male,58,Delhi,Delhi,Table,Furniture,5,7000,15,29750,UPI,2025-07-25,Yusuf
+389,Priya,Male,33,Chennai,Tamil Nadu,Laptop,Electronics,2,55000,15,93500,Card,2025-07-05,Anu
+390,Kiran,Female,37,Bengaluru,Karnataka,Shoes,Fashion,1,3000,0,3000,NetBanking,2025-02-27,Rahul
+391,Meena,Male,49,Delhi,Delhi,Rice,Grocery,3,1200,15,3060,NetBanking,2025-08-14,Diya
+392,Anu,Female,46,Delhi,Delhi,Phone,Electronics,3,25000,0,75000,UPI,2025-03-26,Neha
+393,Yusuf,Male,19,Mumbai,Maharashtra,Watch,Fashion,4,5000,15,17000,UPI,2025-07-19,Arjun
+394,Sneha,Female,35,Hyderabad,Telangana,Rice,Grocery,4,1200,5,4560,Card,2025-11-13,Divya
+395,Rahul,Male,28,Chennai,Tamil Nadu,TV,Electronics,1,42000,10,37800,NetBanking,2025-06-05,Rahul
+396,Aarav,Female,48,Bengaluru,Karnataka,Rice,Grocery,5,1200,15,5100,UPI,2025-12-30,Meena
+397,Aarav,Female,22,Hyderabad,Telangana,Rice,Grocery,5,1200,10,5400,NetBanking,2025-04-07,Kiran
+398,Ravi,Male,25,Delhi,Delhi,Laptop,Electronics,5,55000,5,261250,NetBanking,2025-01-12,Sneha
+399,Anu,Female,60,Bengaluru,Karnataka,Phone,Electronics,1,25000,10,22500,NetBanking,2025-05-16,Meena
+400,Rahul,Female,28,Delhi,Delhi,Watch,Fashion,1,5000,20,4000,Cash,2025-11-30,Aarav
+401,Meena,Male,35,Hyderabad,Telangana,Laptop,Electronics,1,55000,0,55000,Cash,2025-10-24,Anu
+402,Meena,Female,34,Chennai,Tamil Nadu,Chair,Furniture,2,4500,15,7650,Cash,2025-05-24,Arjun
+403,Divya,Male,28,Chennai,Tamil Nadu,Rice,Grocery,4,1200,10,4320,UPI,2025-01-25,Ahmed
+404,Divya,Female,32,Delhi,Delhi,Phone,Electronics,4,25000,15,85000,UPI,2025-04-29,Meena
+405,Ahmed,Female,32,Hyderabad,Telangana,Rice,Grocery,3,1200,20,2880,UPI,2025-10-19,Diya
+406,Vijay,Male,37,Chennai,Tamil Nadu,Shoes,Fashion,4,3000,0,12000,Card,2025-02-27,Divya
+407,Anu,Male,60,Pune,Maharashtra,Table,Furniture,3,7000,10,18900,Cash,2025-09-01,Ravi
+408,Anu,Male,25,Bengaluru,Karnataka,Chair,Furniture,3,4500,0,13500,UPI,2025-05-12,Diya
+409,Vijay,Male,21,Chennai,Tamil Nadu,Watch,Fashion,4,5000,5,19000,Cash,2025-03-21,Meena
+410,Ahmed,Male,60,Pune,Maharashtra,Laptop,Electronics,5,55000,15,233750,Card,2025-09-03,Vijay
+411,Neha,Female,19,Mumbai,Maharashtra,Laptop,Electronics,5,55000,20,220000,Card,2025-10-10,Vijay
+412,Diya,Female,33,Chennai,Tamil Nadu,TV,Electronics,5,42000,10,189000,Card,2025-06-26,Diya
+413,Kiran,Male,33,Pune,Maharashtra,Phone,Electronics,3,25000,20,60000,Cash,2025-08-08,Vijay
+414,Arjun,Male,39,Delhi,Delhi,Table,Furniture,4,7000,20,22400,UPI,2025-05-21,Aarav
+415,Divya,Female,26,Bengaluru,Karnataka,Table,Furniture,4,7000,5,26600,UPI,2025-02-01,Arjun
+416,Divya,Female,43,Hyderabad,Telangana,Laptop,Electronics,5,55000,15,233750,UPI,2025-03-06,Priya
+417,Kiran,Female,24,Delhi,Delhi,Phone,Electronics,3,25000,20,60000,Card,2025-06-17,Diya
+418,Priya,Male,24,Pune,Maharashtra,Shoes,Fashion,5,3000,20,12000,UPI,2025-12-13,Rahul
+419,Priya,Male,19,Hyderabad,Telangana,TV,Electronics,1,42000,10,37800,NetBanking,2025-09-29,Sneha
+420,Anu,Male,41,Chennai,Tamil Nadu,TV,Electronics,1,42000,15,35700,NetBanking,2025-02-18,Anu
+421,Divya,Female,40,Hyderabad,Telangana,Phone,Electronics,3,25000,15,63750,Card,2025-07-24,Priya
+422,Aarav,Female,44,Mumbai,Maharashtra,Table,Furniture,5,7000,20,28000,Card,2025-10-10,Kiran
+423,Sneha,Female,33,Mumbai,Maharashtra,Table,Furniture,5,7000,0,35000,Cash,2025-01-15,Divya
+424,Meena,Male,42,Mumbai,Maharashtra,Chair,Furniture,3,4500,15,11475,Card,2025-06-09,Divya
+425,Kiran,Male,18,Hyderabad,Telangana,Rice,Grocery,1,1200,0,1200,UPI,2025-03-02,Priya
+426,Meena,Female,58,Bengaluru,Karnataka,Shoes,Fashion,4,3000,0,12000,NetBanking,2025-06-14,Priya
+427,Anu,Female,40,Chennai,Tamil Nadu,Phone,Electronics,3,25000,20,60000,Card,2025-01-18,Divya
+428,Rahul,Male,59,Delhi,Delhi,Rice,Grocery,5,1200,20,4800,UPI,2025-04-14,Meena
+429,Neha,Male,48,Delhi,Delhi,TV,Electronics,5,42000,10,189000,Card,2025-04-23,Sneha
+430,Priya,Male,36,Chennai,Tamil Nadu,Table,Furniture,2,7000,5,13300,NetBanking,2025-06-15,Kiran
+431,Aarav,Male,29,Hyderabad,Telangana,Shoes,Fashion,3,3000,15,7650,Card,2025-02-24,Ahmed
+432,Aarav,Male,47,Chennai,Tamil Nadu,Table,Furniture,3,7000,0,21000,NetBanking,2025-06-14,Yusuf
+433,Kiran,Male,53,Delhi,Delhi,Table,Furniture,1,7000,20,5600,Card,2025-08-02,Aarav
+434,Divya,Female,33,Bengaluru,Karnataka,Table,Furniture,2,7000,15,11900,Cash,2025-07-13,Vijay
+435,Neha,Male,39,Bengaluru,Karnataka,Shoes,Fashion,2,3000,5,5700,Card,2025-01-24,Ravi
+436,Sneha,Male,21,Pune,Maharashtra,Table,Furniture,4,7000,20,22400,Cash,2025-03-22,Yusuf
+437,Diya,Female,47,Delhi,Delhi,Rice,Grocery,3,1200,5,3420,NetBanking,2025-01-12,Sneha
+438,Meena,Female,57,Delhi,Delhi,Shoes,Fashion,4,3000,5,11400,UPI,2025-04-01,Priya
+439,Kiran,Male,38,Delhi,Delhi,Table,Furniture,1,7000,15,5950,NetBanking,2025-03-03,Priya
+440,Rahul,Male,26,Delhi,Delhi,Laptop,Electronics,3,55000,0,165000,Cash,2025-10-20,Arjun
+441,Sneha,Male,50,Bengaluru,Karnataka,Table,Furniture,1,7000,15,5950,UPI,2025-03-18,Neha
+442,Neha,Male,57,Bengaluru,Karnataka,Laptop,Electronics,4,55000,10,198000,NetBanking,2025-12-26,Aarav
+443,Ahmed,Female,20,Bengaluru,Karnataka,Shoes,Fashion,2,3000,15,5100,NetBanking,2025-12-13,Kiran
+444,Ravi,Female,19,Pune,Maharashtra,TV,Electronics,4,42000,15,142800,NetBanking,2025-11-04,Priya
+445,Anu,Male,23,Delhi,Delhi,Phone,Electronics,3,25000,20,60000,Cash,2025-03-09,Ahmed
+446,Kiran,Female,41,Bengaluru,Karnataka,Watch,Fashion,5,5000,15,21250,Cash,2025-02-05,Divya
+447,Ahmed,Female,56,Hyderabad,Telangana,Watch,Fashion,3,5000,15,12750,NetBanking,2025-08-22,Rahul
+448,Anu,Female,46,Delhi,Delhi,Chair,Furniture,2,4500,10,8100,Card,2025-12-09,Meena
+449,Rahul,Male,37,Mumbai,Maharashtra,Laptop,Electronics,4,55000,0,220000,Cash,2025-02-27,Priya
+450,Vijay,Male,38,Bengaluru,Karnataka,Watch,Fashion,4,5000,15,17000,Card,2025-11-17,Meena
+451,Arjun,Female,26,Delhi,Delhi,TV,Electronics,5,42000,10,189000,NetBanking,2025-01-15,Ravi
+452,Priya,Male,42,Delhi,Delhi,Chair,Furniture,1,4500,15,3825,Card,2025-06-03,Arjun
+453,Yusuf,Female,42,Hyderabad,Telangana,TV,Electronics,4,42000,10,151200,Card,2025-06-07,Neha
+454,Vijay,Male,60,Hyderabad,Telangana,Watch,Fashion,2,5000,5,9500,Card,2025-12-10,Ahmed
+455,Divya,Female,22,Hyderabad,Telangana,Phone,Electronics,5,25000,0,125000,UPI,2025-02-25,Rahul
+456,Divya,Male,52,Chennai,Tamil Nadu,Watch,Fashion,1,5000,15,4250,Cash,2025-11-15,Rahul
+457,Sneha,Male,43,Hyderabad,Telangana,Table,Furniture,5,7000,10,31500,NetBanking,2025-07-12,Priya
+458,Priya,Female,22,Delhi,Delhi,Table,Furniture,5,7000,5,33250,NetBanking,2025-10-17,Sneha
+459,Yusuf,Female,52,Mumbai,Maharashtra,Table,Furniture,4,7000,20,22400,Card,2025-05-15,Sneha
+460,Priya,Female,27,Bengaluru,Karnataka,Phone,Electronics,4,25000,20,80000,NetBanking,2025-11-20,Aarav
+461,Diya,Female,38,Hyderabad,Telangana,Table,Furniture,5,7000,20,28000,Cash,2025-09-28,Kiran
+462,Vijay,Male,21,Pune,Maharashtra,Watch,Fashion,4,5000,20,16000,Card,2025-02-18,Kiran
+463,Neha,Male,40,Mumbai,Maharashtra,Watch,Fashion,2,5000,15,8500,Cash,2025-05-29,Divya
+464,Aarav,Female,44,Pune,Maharashtra,Watch,Fashion,3,5000,0,15000,Card,2025-09-09,Ravi
+465,Arjun,Female,45,Delhi,Delhi,Laptop,Electronics,2,55000,15,93500,NetBanking,2025-01-19,Ahmed
+466,Aarav,Male,24,Mumbai,Maharashtra,TV,Electronics,4,42000,15,142800,NetBanking,2025-08-26,Ravi
+467,Arjun,Female,20,Bengaluru,Karnataka,TV,Electronics,1,42000,10,37800,Cash,2025-09-14,Anu
+468,Sneha,Male,54,Bengaluru,Karnataka,Watch,Fashion,5,5000,15,21250,Cash,2025-05-17,Sneha
+469,Meena,Male,28,Delhi,Delhi,Watch,Fashion,2,5000,5,9500,UPI,2025-09-10,Neha
+470,Priya,Female,45,Mumbai,Maharashtra,Shoes,Fashion,2,3000,0,6000,Cash,2025-04-07,Vijay
+471,Anu,Male,37,Chennai,Tamil Nadu,Shoes,Fashion,4,3000,0,12000,Cash,2025-03-18,Ahmed
+472,Rahul,Male,55,Delhi,Delhi,Chair,Furniture,4,4500,15,15300,NetBanking,2025-08-24,Sneha
+473,Diya,Male,49,Mumbai,Maharashtra,Table,Furniture,2,7000,0,14000,NetBanking,2025-06-26,Yusuf
+474,Neha,Male,54,Chennai,Tamil Nadu,Watch,Fashion,4,5000,10,18000,Cash,2025-10-21,Anu
+475,Diya,Male,30,Pune,Maharashtra,Watch,Fashion,2,5000,0,10000,Card,2025-04-14,Aarav
+476,Vijay,Male,33,Chennai,Tamil Nadu,Phone,Electronics,5,25000,5,118750,Cash,2025-09-17,Arjun
+477,Kiran,Male,51,Chennai,Tamil Nadu,TV,Electronics,1,42000,20,33600,NetBanking,2025-02-24,Ahmed
+478,Ahmed,Female,43,Hyderabad,Telangana,Shoes,Fashion,4,3000,10,10800,Card,2025-07-07,Meena
+479,Ravi,Female,58,Delhi,Delhi,TV,Electronics,2,42000,5,79800,NetBanking,2025-05-27,Priya
+480,Aarav,Female,21,Delhi,Delhi,Watch,Fashion,5,5000,5,23750,Cash,2025-04-19,Rahul
+481,Arjun,Male,21,Delhi,Delhi,Chair,Furniture,2,4500,0,9000,Cash,2025-03-30,Diya
+482,Meena,Male,26,Mumbai,Maharashtra,Laptop,Electronics,5,55000,15,233750,Card,2025-09-08,Priya
+483,Ahmed,Male,32,Hyderabad,Telangana,Shoes,Fashion,2,3000,10,5400,UPI,2025-07-31,Neha
+484,Ahmed,Female,25,Bengaluru,Karnataka,Shoes,Fashion,1,3000,15,2550,UPI,2025-06-28,Ahmed
+485,Yusuf,Female,49,Bengaluru,Karnataka,Chair,Furniture,4,4500,10,16200,NetBanking,2025-02-18,Ahmed
+486,Rahul,Male,60,Hyderabad,Telangana,Shoes,Fashion,4,3000,5,11400,NetBanking,2025-06-22,Anu
+487,Ravi,Male,44,Bengaluru,Karnataka,Table,Furniture,4,7000,10,25200,NetBanking,2025-09-04,Ahmed
+488,Ahmed,Female,18,Pune,Maharashtra,Table,Furniture,3,7000,0,21000,UPI,2025-12-23,Neha
+489,Kiran,Male,36,Bengaluru,Karnataka,Shoes,Fashion,2,3000,20,4800,UPI,2025-08-10,Yusuf
+490,Arjun,Female,37,Bengaluru,Karnataka,TV,Electronics,4,42000,0,168000,Cash,2025-11-17,Yusuf
+491,Kiran,Female,41,Hyderabad,Telangana,Shoes,Fashion,4,3000,0,12000,Card,2025-06-12,Yusuf
+492,Priya,Female,40,Pune,Maharashtra,Chair,Furniture,3,4500,5,12825,Cash,2025-10-05,Yusuf
+493,Rahul,Male,52,Delhi,Delhi,Phone,Electronics,3,25000,10,67500,UPI,2025-06-26,Kiran
+494,Arjun,Female,47,Mumbai,Maharashtra,TV,Electronics,2,42000,5,79800,UPI,2025-04-02,Meena
+495,Neha,Male,45,Chennai,Tamil Nadu,Shoes,Fashion,1,3000,10,2700,UPI,2025-11-01,Ravi
+496,Diya,Female,34,Bengaluru,Karnataka,TV,Electronics,4,42000,0,168000,UPI,2025-05-14,Kiran
+497,Meena,Male,39,Mumbai,Maharashtra,TV,Electronics,4,42000,5,159600,UPI,2025-01-30,Aarav
+498,Ravi,Male,37,Hyderabad,Telangana,Watch,Fashion,2,5000,15,8500,NetBanking,2025-03-27,Ahmed
+499,Meena,Male,24,Bengaluru,Karnataka,Shoes,Fashion,3,3000,5,8550,NetBanking,2025-12-18,Ravi
+500,Kiran,Male,32,Delhi,Delhi,Shoes,Fashion,5,3000,5,14250,Cash,2025-01-30,Aarav
+501,Ahmed,Male,59,Bengaluru,Karnataka,TV,Electronics,1,42000,5,39900,UPI,2025-02-24,Kiran
+502,Yusuf,Female,34,Hyderabad,Telangana,Watch,Fashion,1,5000,0,5000,NetBanking,2025-11-10,Divya
+503,Kiran,Female,29,Delhi,Delhi,TV,Electronics,5,42000,5,199500,NetBanking,2025-04-26,Ravi
+504,Anu,Female,25,Pune,Maharashtra,Phone,Electronics,4,25000,0,100000,UPI,2025-01-04,Diya
+505,Rahul,Female,52,Mumbai,Maharashtra,Watch,Fashion,3,5000,0,15000,NetBanking,2025-01-06,Divya
+506,Rahul,Male,30,Hyderabad,Telangana,Rice,Grocery,2,1200,20,1920,NetBanking,2025-09-03,Diya
+507,Priya,Female,58,Mumbai,Maharashtra,Chair,Furniture,4,4500,5,17100,NetBanking,2025-11-19,Arjun
+508,Sneha,Male,47,Mumbai,Maharashtra,Watch,Fashion,2,5000,20,8000,NetBanking,2025-09-21,Diya
+509,Divya,Male,40,Delhi,Delhi,Rice,Grocery,1,1200,20,960,Cash,2025-04-29,Sneha
+510,Rahul,Female,22,Mumbai,Maharashtra,Chair,Furniture,2,4500,10,8100,Cash,2025-01-31,Arjun
+511,Ravi,Male,22,Hyderabad,Telangana,Watch,Fashion,4,5000,20,16000,UPI,2025-12-06,Anu
+512,Ahmed,Female,43,Chennai,Tamil Nadu,Table,Furniture,3,7000,0,21000,UPI,2025-08-08,Divya
+513,Ravi,Female,18,Pune,Maharashtra,Phone,Electronics,4,25000,20,80000,NetBanking,2025-04-22,Meena
+514,Priya,Male,20,Chennai,Tamil Nadu,TV,Electronics,4,42000,15,142800,UPI,2025-06-17,Arjun
+515,Yusuf,Male,49,Pune,Maharashtra,Chair,Furniture,5,4500,10,20250,NetBanking,2025-11-18,Aarav
+516,Sneha,Female,53,Mumbai,Maharashtra,Laptop,Electronics,3,55000,20,132000,Card,2025-04-08,Yusuf
+517,Aarav,Male,40,Pune,Maharashtra,Phone,Electronics,1,25000,15,21250,UPI,2025-12-03,Kiran
+518,Ravi,Male,37,Delhi,Delhi,Shoes,Fashion,3,3000,0,9000,Card,2025-05-05,Divya
+519,Anu,Female,34,Mumbai,Maharashtra,Laptop,Electronics,3,55000,15,140250,NetBanking,2025-09-18,Anu
+520,Sneha,Male,51,Bengaluru,Karnataka,Phone,Electronics,5,25000,20,100000,Cash,2025-09-12,Sneha
+521,Kiran,Female,57,Delhi,Delhi,Table,Furniture,2,7000,5,13300,Card,2025-09-22,Kiran
+522,Neha,Female,38,Mumbai,Maharashtra,Shoes,Fashion,4,3000,20,9600,Card,2025-02-01,Divya
+523,Arjun,Male,55,Hyderabad,Telangana,Rice,Grocery,5,1200,0,6000,Cash,2025-05-21,Anu
+524,Aarav,Male,58,Delhi,Delhi,Shoes,Fashion,3,3000,0,9000,NetBanking,2025-08-09,Rahul
+525,Aarav,Male,26,Chennai,Tamil Nadu,Watch,Fashion,3,5000,5,14250,Cash,2025-10-12,Rahul
+526,Sneha,Male,46,Delhi,Delhi,TV,Electronics,1,42000,10,37800,Card,2025-11-24,Yusuf
+527,Priya,Male,21,Pune,Maharashtra,Table,Furniture,1,7000,0,7000,NetBanking,2025-02-22,Divya
+528,Rahul,Male,48,Chennai,Tamil Nadu,Rice,Grocery,2,1200,15,2040,Card,2025-04-22,Vijay
+529,Arjun,Female,60,Chennai,Tamil Nadu,Laptop,Electronics,3,55000,0,165000,Cash,2025-10-04,Rahul
+530,Meena,Female,33,Delhi,Delhi,Laptop,Electronics,5,55000,0,275000,Card,2025-06-08,Vijay
+531,Diya,Male,58,Chennai,Tamil Nadu,TV,Electronics,2,42000,15,71400,NetBanking,2025-09-19,Diya
+532,Vijay,Male,18,Chennai,Tamil Nadu,Rice,Grocery,3,1200,20,2880,Cash,2025-03-07,Diya
+533,Priya,Female,24,Mumbai,Maharashtra,Table,Furniture,2,7000,0,14000,NetBanking,2025-12-11,Kiran
+534,Priya,Male,32,Chennai,Tamil Nadu,Phone,Electronics,1,25000,15,21250,UPI,2025-10-01,Arjun
+535,Ravi,Female,55,Mumbai,Maharashtra,Shoes,Fashion,3,3000,5,8550,Cash,2025-04-29,Anu
+536,Priya,Male,54,Bengaluru,Karnataka,Chair,Furniture,5,4500,10,20250,Card,2025-06-01,Anu
+537,Aarav,Male,49,Hyderabad,Telangana,Laptop,Electronics,2,55000,20,88000,UPI,2025-08-02,Sneha
+538,Priya,Female,26,Mumbai,Maharashtra,Watch,Fashion,5,5000,20,20000,NetBanking,2025-08-25,Meena
+539,Kiran,Male,58,Delhi,Delhi,Watch,Fashion,3,5000,0,15000,Cash,2025-03-05,Diya
+540,Priya,Male,31,Hyderabad,Telangana,Chair,Furniture,4,4500,10,16200,Cash,2025-06-09,Anu
+541,Sneha,Male,28,Bengaluru,Karnataka,TV,Electronics,1,42000,5,39900,UPI,2025-12-28,Vijay
+542,Kiran,Male,57,Pune,Maharashtra,Phone,Electronics,2,25000,20,40000,UPI,2025-05-22,Kiran
+543,Anu,Female,46,Delhi,Delhi,Rice,Grocery,3,1200,15,3060,Card,2025-11-18,Ahmed
+544,Anu,Male,43,Chennai,Tamil Nadu,Shoes,Fashion,5,3000,15,12750,Card,2025-11-16,Vijay
+545,Anu,Male,19,Delhi,Delhi,TV,Electronics,3,42000,5,119700,Cash,2025-01-16,Rahul
+546,Priya,Male,18,Pune,Maharashtra,Chair,Furniture,4,4500,5,17100,UPI,2025-11-29,Rahul
+547,Anu,Male,19,Bengaluru,Karnataka,Shoes,Fashion,1,3000,15,2550,NetBanking,2025-10-26,Yusuf
+548,Rahul,Female,52,Bengaluru,Karnataka,TV,Electronics,2,42000,0,84000,Card,2025-12-09,Ravi
+549,Ravi,Male,48,Mumbai,Maharashtra,TV,Electronics,5,42000,20,168000,Cash,2025-02-06,Rahul
+550,Ahmed,Male,49,Mumbai,Maharashtra,Watch,Fashion,4,5000,0,20000,Card,2025-01-29,Ravi
+551,Rahul,Female,51,Delhi,Delhi,Rice,Grocery,3,1200,10,3240,UPI,2025-11-16,Kiran
+552,Kiran,Female,55,Chennai,Tamil Nadu,Table,Furniture,2,7000,20,11200,Card,2025-07-27,Meena
+553,Ravi,Male,59,Bengaluru,Karnataka,TV,Electronics,3,42000,10,113400,UPI,2025-09-17,Divya
+554,Ravi,Male,49,Hyderabad,Telangana,Phone,Electronics,2,25000,0,50000,NetBanking,2025-11-20,Ravi
+555,Priya,Male,19,Bengaluru,Karnataka,Rice,Grocery,2,1200,10,2160,UPI,2025-07-14,Anu
+556,Yusuf,Female,36,Delhi,Delhi,Table,Furniture,5,7000,20,28000,Card,2025-10-17,Ahmed
+557,Rahul,Male,45,Mumbai,Maharashtra,Watch,Fashion,5,5000,15,21250,Cash,2025-02-27,Priya
+558,Kiran,Female,47,Delhi,Delhi,TV,Electronics,4,42000,15,142800,Card,2025-09-04,Yusuf
+559,Aarav,Female,22,Chennai,Tamil Nadu,Laptop,Electronics,3,55000,5,156750,NetBanking,2025-04-01,Meena
+560,Kiran,Female,37,Hyderabad,Telangana,TV,Electronics,2,42000,0,84000,UPI,2025-11-05,Neha
+561,Sneha,Male,54,Bengaluru,Karnataka,Table,Furniture,3,7000,20,16800,Cash,2025-08-14,Ahmed
+562,Ravi,Female,40,Mumbai,Maharashtra,TV,Electronics,1,42000,5,39900,Cash,2025-09-20,Aarav
+563,Aarav,Male,38,Pune,Maharashtra,Phone,Electronics,2,25000,10,45000,NetBanking,2025-04-03,Neha
+564,Ahmed,Male,60,Pune,Maharashtra,Rice,Grocery,2,1200,20,1920,NetBanking,2025-08-19,Neha
+565,Neha,Female,41,Delhi,Delhi,Chair,Furniture,1,4500,0,4500,Cash,2025-10-29,Ahmed
+566,Vijay,Male,48,Bengaluru,Karnataka,Rice,Grocery,1,1200,5,1140,Cash,2025-09-15,Sneha
+567,Neha,Male,35,Hyderabad,Telangana,TV,Electronics,2,42000,10,75600,UPI,2025-11-01,Aarav
+568,Divya,Male,38,Chennai,Tamil Nadu,TV,Electronics,5,42000,15,178500,Cash,2025-04-25,Anu
+569,Ahmed,Male,32,Hyderabad,Telangana,Chair,Furniture,4,4500,10,16200,NetBanking,2025-06-06,Anu
+570,Diya,Female,33,Bengaluru,Karnataka,Chair,Furniture,2,4500,15,7650,Cash,2025-02-23,Kiran
+571,Divya,Male,29,Chennai,Tamil Nadu,Table,Furniture,3,7000,0,21000,Card,2025-02-13,Diya
+572,Ravi,Female,46,Delhi,Delhi,Chair,Furniture,2,4500,20,7200,Card,2025-05-03,Vijay
+573,Aarav,Female,37,Delhi,Delhi,Chair,Furniture,5,4500,0,22500,Cash,2025-05-25,Yusuf
+574,Ravi,Female,28,Bengaluru,Karnataka,Chair,Furniture,1,4500,5,4275,UPI,2025-04-16,Arjun
+575,Arjun,Female,19,Mumbai,Maharashtra,TV,Electronics,3,42000,20,100800,UPI,2025-07-17,Sneha
+576,Diya,Female,47,Delhi,Delhi,Table,Furniture,4,7000,0,28000,Cash,2025-09-12,Yusuf
+577,Aarav,Female,43,Hyderabad,Telangana,Shoes,Fashion,4,3000,0,12000,NetBanking,2025-03-19,Neha
+578,Meena,Male,28,Chennai,Tamil Nadu,Watch,Fashion,3,5000,10,13500,Cash,2025-05-04,Ahmed
+579,Priya,Female,47,Mumbai,Maharashtra,Chair,Furniture,3,4500,15,11475,NetBanking,2025-09-30,Kiran
+580,Yusuf,Female,47,Pune,Maharashtra,Table,Furniture,4,7000,5,26600,Card,2025-01-03,Priya
+581,Neha,Female,31,Bengaluru,Karnataka,Shoes,Fashion,5,3000,10,13500,Card,2025-07-16,Ravi
+582,Vijay,Female,60,Mumbai,Maharashtra,TV,Electronics,3,42000,15,107100,UPI,2025-07-04,Kiran
+583,Sneha,Female,27,Delhi,Delhi,Phone,Electronics,1,25000,10,22500,Card,2025-05-17,Divya
+584,Meena,Female,36,Delhi,Delhi,Chair,Furniture,4,4500,0,18000,Cash,2025-06-14,Sneha
+585,Yusuf,Male,60,Mumbai,Maharashtra,Laptop,Electronics,3,55000,0,165000,Card,2025-06-09,Priya
+586,Aarav,Female,24,Pune,Maharashtra,Rice,Grocery,3,1200,5,3420,Card,2025-10-21,Rahul
+587,Vijay,Male,60,Bengaluru,Karnataka,Laptop,Electronics,2,55000,0,110000,UPI,2025-07-28,Aarav
+588,Diya,Male,26,Delhi,Delhi,Laptop,Electronics,4,55000,10,198000,Card,2025-06-19,Anu
+589,Yusuf,Male,44,Pune,Maharashtra,TV,Electronics,3,42000,0,126000,Cash,2025-07-14,Anu
+590,Sneha,Male,30,Pune,Maharashtra,Rice,Grocery,1,1200,15,1020,NetBanking,2025-04-30,Divya
+591,Meena,Female,48,Hyderabad,Telangana,Phone,Electronics,4,25000,0,100000,Card,2025-07-18,Ravi
+592,Kiran,Female,31,Pune,Maharashtra,Watch,Fashion,5,5000,10,22500,NetBanking,2025-08-03,Meena
+593,Priya,Male,18,Mumbai,Maharashtra,Table,Furniture,1,7000,15,5950,Card,2025-04-09,Aarav
+594,Neha,Female,46,Pune,Maharashtra,Phone,Electronics,5,25000,15,106250,NetBanking,2025-08-13,Anu
+595,Arjun,Male,29,Hyderabad,Telangana,Chair,Furniture,5,4500,5,21375,NetBanking,2025-07-20,Anu
+596,Vijay,Female,21,Chennai,Tamil Nadu,Shoes,Fashion,5,3000,0,15000,Cash,2025-06-25,Arjun
+597,Kiran,Female,52,Mumbai,Maharashtra,Watch,Fashion,2,5000,10,9000,NetBanking,2025-01-27,Meena
+598,Priya,Male,37,Chennai,Tamil Nadu,Shoes,Fashion,1,3000,0,3000,NetBanking,2025-02-23,Anu
+599,Divya,Female,24,Delhi,Delhi,Table,Furniture,1,7000,15,5950,UPI,2025-08-29,Ahmed
+600,Vijay,Female,60,Pune,Maharashtra,TV,Electronics,5,42000,15,178500,NetBanking,2025-07-28,Neha
+601,Aarav,Male,49,Hyderabad,Telangana,Phone,Electronics,3,25000,0,75000,Card,2025-11-30,Neha
+602,Diya,Male,42,Hyderabad,Telangana,Rice,Grocery,4,1200,10,4320,Card,2025-11-01,Meena
+603,Yusuf,Female,29,Mumbai,Maharashtra,Chair,Furniture,5,4500,20,18000,NetBanking,2025-01-20,Kiran
+604,Divya,Male,58,Chennai,Tamil Nadu,Chair,Furniture,2,4500,20,7200,NetBanking,2025-02-08,Ravi
+605,Vijay,Male,48,Delhi,Delhi,Laptop,Electronics,1,55000,15,46750,Cash,2025-07-23,Vijay
+606,Ahmed,Male,33,Delhi,Delhi,Rice,Grocery,2,1200,20,1920,NetBanking,2025-12-10,Arjun
+607,Kiran,Female,27,Mumbai,Maharashtra,Watch,Fashion,1,5000,15,4250,Card,2025-05-03,Neha
+608,Priya,Male,33,Mumbai,Maharashtra,Chair,Furniture,1,4500,20,3600,NetBanking,2025-06-14,Aarav
+609,Arjun,Male,44,Chennai,Tamil Nadu,Rice,Grocery,2,1200,20,1920,Card,2025-02-25,Vijay
+610,Rahul,Female,33,Mumbai,Maharashtra,Laptop,Electronics,3,55000,5,156750,UPI,2025-02-09,Kiran
+611,Aarav,Female,32,Mumbai,Maharashtra,Shoes,Fashion,2,3000,10,5400,UPI,2025-06-16,Divya
+612,Neha,Male,53,Mumbai,Maharashtra,Laptop,Electronics,1,55000,15,46750,UPI,2025-02-09,Aarav
+613,Ahmed,Female,31,Chennai,Tamil Nadu,Watch,Fashion,5,5000,20,20000,Cash,2025-07-05,Arjun
+614,Ravi,Male,34,Pune,Maharashtra,Phone,Electronics,5,25000,20,100000,Cash,2025-09-10,Aarav
+615,Sneha,Female,32,Hyderabad,Telangana,Laptop,Electronics,3,55000,20,132000,Cash,2025-11-17,Neha
+616,Ahmed,Male,52,Chennai,Tamil Nadu,Phone,Electronics,4,25000,5,95000,UPI,2025-04-20,Ravi
+617,Diya,Male,59,Bengaluru,Karnataka,Phone,Electronics,2,25000,10,45000,Card,2025-06-11,Sneha
+618,Ravi,Male,19,Hyderabad,Telangana,TV,Electronics,3,42000,20,100800,UPI,2025-02-09,Ahmed
+619,Diya,Female,57,Chennai,Tamil Nadu,Rice,Grocery,2,1200,5,2280,Cash,2025-02-07,Neha
+620,Kiran,Male,42,Hyderabad,Telangana,Watch,Fashion,2,5000,10,9000,Card,2025-06-16,Vijay
+621,Rahul,Female,23,Chennai,Tamil Nadu,Chair,Furniture,1,4500,20,3600,UPI,2025-01-03,Vijay
+622,Aarav,Male,54,Pune,Maharashtra,Rice,Grocery,2,1200,20,1920,UPI,2025-03-06,Anu
+623,Diya,Female,53,Pune,Maharashtra,TV,Electronics,1,42000,5,39900,NetBanking,2025-08-18,Ahmed
+624,Kiran,Male,54,Pune,Maharashtra,Watch,Fashion,3,5000,15,12750,Cash,2025-07-02,Neha
+625,Kiran,Male,25,Pune,Maharashtra,Table,Furniture,2,7000,10,12600,NetBanking,2025-11-24,Ahmed
+626,Kiran,Male,42,Hyderabad,Telangana,Laptop,Electronics,3,55000,5,156750,NetBanking,2025-07-09,Aarav
+627,Neha,Female,22,Hyderabad,Telangana,Rice,Grocery,3,1200,0,3600,NetBanking,2025-10-07,Divya
+628,Vijay,Female,29,Bengaluru,Karnataka,TV,Electronics,5,42000,10,189000,NetBanking,2025-08-30,Aarav
+629,Meena,Female,20,Chennai,Tamil Nadu,Rice,Grocery,5,1200,10,5400,Cash,2025-04-05,Sneha
+630,Neha,Female,32,Chennai,Tamil Nadu,Phone,Electronics,4,25000,0,100000,Cash,2025-05-04,Ahmed
+631,Meena,Female,36,Pune,Maharashtra,Watch,Fashion,4,5000,15,17000,Cash,2025-10-14,Rahul
+632,Ravi,Female,60,Delhi,Delhi,Table,Furniture,1,7000,5,6650,Card,2025-02-11,Divya
+633,Ahmed,Female,21,Delhi,Delhi,Phone,Electronics,2,25000,5,47500,UPI,2025-05-02,Yusuf
+634,Priya,Male,20,Pune,Maharashtra,Laptop,Electronics,5,55000,15,233750,UPI,2025-06-04,Priya
+635,Arjun,Female,43,Bengaluru,Karnataka,Phone,Electronics,5,25000,0,125000,UPI,2025-04-06,Diya
+636,Aarav,Female,45,Bengaluru,Karnataka,Shoes,Fashion,4,3000,5,11400,Card,2025-02-06,Rahul
+637,Ahmed,Male,25,Bengaluru,Karnataka,Laptop,Electronics,5,55000,0,275000,UPI,2025-01-22,Vijay
+638,Diya,Male,46,Pune,Maharashtra,Table,Furniture,4,7000,20,22400,Card,2025-08-17,Aarav
+639,Anu,Male,40,Mumbai,Maharashtra,Shoes,Fashion,1,3000,5,2850,UPI,2025-02-14,Sneha
+640,Priya,Male,33,Hyderabad,Telangana,Laptop,Electronics,1,55000,20,44000,Card,2025-12-22,Yusuf
+641,Yusuf,Male,55,Pune,Maharashtra,Phone,Electronics,5,25000,5,118750,NetBanking,2025-03-08,Neha
+642,Ahmed,Male,26,Delhi,Delhi,Rice,Grocery,2,1200,20,1920,UPI,2025-01-14,Divya
+643,Rahul,Male,22,Bengaluru,Karnataka,Watch,Fashion,1,5000,10,4500,NetBanking,2025-06-06,Vijay
+644,Priya,Female,50,Hyderabad,Telangana,Rice,Grocery,2,1200,0,2400,NetBanking,2025-09-07,Kiran
+645,Neha,Female,24,Delhi,Delhi,Table,Furniture,5,7000,10,31500,Card,2025-06-18,Vijay
+646,Ahmed,Female,27,Chennai,Tamil Nadu,Table,Furniture,4,7000,5,26600,UPI,2025-04-16,Kiran
+647,Anu,Female,47,Mumbai,Maharashtra,Chair,Furniture,5,4500,20,18000,UPI,2025-05-05,Ahmed
+648,Ravi,Female,18,Pune,Maharashtra,Phone,Electronics,1,25000,0,25000,Cash,2025-11-22,Diya
+649,Anu,Male,38,Delhi,Delhi,TV,Electronics,1,42000,20,33600,UPI,2025-04-15,Ravi
+650,Vijay,Female,29,Bengaluru,Karnataka,Phone,Electronics,5,25000,5,118750,Cash,2025-12-04,Arjun
+651,Arjun,Female,31,Delhi,Delhi,Rice,Grocery,5,1200,0,6000,UPI,2025-01-16,Kiran
+652,Yusuf,Male,50,Hyderabad,Telangana,Table,Furniture,1,7000,15,5950,Card,2025-06-10,Arjun
+653,Arjun,Male,51,Chennai,Tamil Nadu,Phone,Electronics,4,25000,0,100000,UPI,2025-08-24,Yusuf
+654,Ahmed,Female,33,Mumbai,Maharashtra,Watch,Fashion,4,5000,0,20000,Card,2025-08-26,Diya
+655,Priya,Female,57,Pune,Maharashtra,Shoes,Fashion,4,3000,20,9600,UPI,2025-05-20,Arjun
+656,Ravi,Female,58,Delhi,Delhi,Rice,Grocery,1,1200,0,1200,Card,2025-07-05,Sneha
+657,Meena,Male,36,Mumbai,Maharashtra,Watch,Fashion,2,5000,15,8500,Card,2025-07-20,Arjun
+658,Yusuf,Female,49,Hyderabad,Telangana,Table,Furniture,4,7000,5,26600,NetBanking,2025-06-15,Aarav
+659,Arjun,Male,46,Mumbai,Maharashtra,Shoes,Fashion,1,3000,0,3000,UPI,2025-10-29,Rahul
+660,Meena,Male,53,Chennai,Tamil Nadu,Rice,Grocery,2,1200,20,1920,UPI,2025-08-08,Ahmed
+661,Diya,Female,45,Delhi,Delhi,Watch,Fashion,5,5000,0,25000,Cash,2025-01-18,Ravi
+662,Yusuf,Male,34,Pune,Maharashtra,Watch,Fashion,1,5000,20,4000,NetBanking,2025-04-04,Priya
+663,Divya,Female,35,Hyderabad,Telangana,Watch,Fashion,4,5000,5,19000,UPI,2025-03-02,Ahmed
+664,Anu,Female,40,Bengaluru,Karnataka,Rice,Grocery,3,1200,0,3600,Cash,2025-06-27,Diya
+665,Vijay,Male,55,Delhi,Delhi,Shoes,Fashion,1,3000,15,2550,UPI,2025-03-10,Ahmed
+666,Yusuf,Male,43,Chennai,Tamil Nadu,Shoes,Fashion,3,3000,15,7650,Card,2025-07-21,Divya
+667,Arjun,Female,54,Mumbai,Maharashtra,TV,Electronics,1,42000,5,39900,NetBanking,2025-06-18,Aarav
+668,Yusuf,Male,36,Chennai,Tamil Nadu,Shoes,Fashion,2,3000,10,5400,NetBanking,2025-05-24,Sneha
+669,Diya,Female,59,Delhi,Delhi,Chair,Furniture,4,4500,15,15300,UPI,2025-05-07,Arjun
+670,Arjun,Female,33,Chennai,Tamil Nadu,Shoes,Fashion,3,3000,5,8550,NetBanking,2025-02-25,Priya
+671,Ahmed,Male,42,Pune,Maharashtra,Phone,Electronics,4,25000,5,95000,NetBanking,2025-09-21,Neha
+672,Rahul,Male,21,Chennai,Tamil Nadu,Watch,Fashion,4,5000,20,16000,NetBanking,2025-12-30,Ravi
+673,Vijay,Female,58,Bengaluru,Karnataka,Table,Furniture,4,7000,5,26600,UPI,2025-07-28,Vijay
+674,Anu,Female,19,Hyderabad,Telangana,Chair,Furniture,1,4500,20,3600,NetBanking,2025-07-04,Kiran
+675,Ravi,Male,37,Pune,Maharashtra,TV,Electronics,5,42000,5,199500,Cash,2025-04-08,Diya
+676,Yusuf,Male,29,Hyderabad,Telangana,TV,Electronics,2,42000,15,71400,NetBanking,2025-07-31,Rahul
+677,Ravi,Female,22,Delhi,Delhi,Chair,Furniture,3,4500,10,12150,NetBanking,2025-01-31,Meena
+678,Rahul,Male,26,Chennai,Tamil Nadu,TV,Electronics,2,42000,15,71400,UPI,2025-09-26,Priya
+679,Neha,Male,20,Hyderabad,Telangana,Laptop,Electronics,1,55000,5,52250,NetBanking,2025-04-22,Priya
+680,Meena,Female,60,Bengaluru,Karnataka,TV,Electronics,1,42000,15,35700,UPI,2025-07-22,Rahul
+681,Sneha,Male,33,Pune,Maharashtra,TV,Electronics,1,42000,15,35700,Card,2025-04-26,Diya
+682,Yusuf,Male,36,Delhi,Delhi,Table,Furniture,5,7000,15,29750,UPI,2025-06-08,Yusuf
+683,Ahmed,Female,59,Pune,Maharashtra,TV,Electronics,1,42000,15,35700,Cash,2025-09-11,Diya
+684,Neha,Male,39,Pune,Maharashtra,Laptop,Electronics,1,55000,15,46750,Cash,2025-01-29,Divya
+685,Aarav,Female,45,Chennai,Tamil Nadu,Watch,Fashion,2,5000,15,8500,Card,2025-06-20,Ahmed
+686,Diya,Male,35,Hyderabad,Telangana,Chair,Furniture,3,4500,15,11475,UPI,2025-07-14,Arjun
+687,Vijay,Male,18,Chennai,Tamil Nadu,Rice,Grocery,2,1200,15,2040,Cash,2025-05-17,Divya
+688,Arjun,Female,58,Delhi,Delhi,Chair,Furniture,3,4500,15,11475,Card,2025-05-25,Diya
+689,Divya,Female,40,Delhi,Delhi,Table,Furniture,1,7000,15,5950,Cash,2025-10-28,Divya
+690,Rahul,Female,50,Mumbai,Maharashtra,Watch,Fashion,3,5000,0,15000,Card,2025-07-18,Vijay
+691,Kiran,Male,52,Pune,Maharashtra,Rice,Grocery,5,1200,10,5400,NetBanking,2025-04-05,Priya
+692,Vijay,Female,55,Delhi,Delhi,Rice,Grocery,1,1200,20,960,NetBanking,2025-07-20,Ravi
+693,Vijay,Male,20,Chennai,Tamil Nadu,TV,Electronics,1,42000,15,35700,Cash,2025-11-25,Arjun
+694,Diya,Female,45,Pune,Maharashtra,Rice,Grocery,4,1200,10,4320,UPI,2025-11-06,Rahul
+695,Priya,Female,59,Chennai,Tamil Nadu,Table,Furniture,5,7000,5,33250,NetBanking,2025-05-15,Arjun
+696,Aarav,Male,36,Mumbai,Maharashtra,TV,Electronics,2,42000,0,84000,Cash,2025-09-18,Kiran
+697,Sneha,Male,36,Bengaluru,Karnataka,Laptop,Electronics,5,55000,0,275000,Card,2025-03-19,Arjun
+698,Kiran,Female,47,Delhi,Delhi,Chair,Furniture,4,4500,10,16200,NetBanking,2025-07-14,Neha
+699,Sneha,Male,26,Hyderabad,Telangana,Laptop,Electronics,1,55000,0,55000,UPI,2025-10-07,Anu
+700,Kiran,Female,28,Mumbai,Maharashtra,Phone,Electronics,2,25000,5,47500,NetBanking,2025-10-11,Yusuf
+701,Vijay,Female,32,Bengaluru,Karnataka,Shoes,Fashion,5,3000,0,15000,UPI,2025-09-17,Priya
+702,Diya,Male,20,Hyderabad,Telangana,Laptop,Electronics,4,55000,10,198000,UPI,2025-12-24,Ahmed
+703,Rahul,Male,44,Delhi,Delhi,Rice,Grocery,1,1200,5,1140,NetBanking,2025-01-01,Ahmed
+704,Kiran,Male,57,Mumbai,Maharashtra,Watch,Fashion,3,5000,0,15000,Cash,2025-04-26,Anu
+705,Neha,Female,40,Delhi,Delhi,Shoes,Fashion,4,3000,20,9600,Cash,2025-02-25,Sneha
+706,Meena,Female,50,Hyderabad,Telangana,TV,Electronics,1,42000,0,42000,Card,2025-09-11,Kiran
+707,Meena,Male,27,Mumbai,Maharashtra,Chair,Furniture,2,4500,20,7200,NetBanking,2025-03-08,Kiran
+708,Neha,Male,40,Pune,Maharashtra,Shoes,Fashion,2,3000,0,6000,Cash,2025-07-19,Ahmed
+709,Ravi,Male,51,Bengaluru,Karnataka,Table,Furniture,4,7000,5,26600,Card,2025-09-04,Ahmed
+710,Yusuf,Female,56,Delhi,Delhi,Chair,Furniture,5,4500,0,22500,Card,2025-04-23,Ahmed
+711,Meena,Female,59,Pune,Maharashtra,Watch,Fashion,3,5000,10,13500,UPI,2025-08-17,Priya
+712,Meena,Female,45,Bengaluru,Karnataka,Phone,Electronics,1,25000,10,22500,UPI,2025-07-27,Kiran
+713,Neha,Female,32,Mumbai,Maharashtra,TV,Electronics,4,42000,15,142800,UPI,2025-08-05,Neha
+714,Ahmed,Female,38,Delhi,Delhi,Shoes,Fashion,1,3000,15,2550,Cash,2025-06-18,Neha
+715,Yusuf,Male,31,Delhi,Delhi,Chair,Furniture,5,4500,15,19125,Card,2025-11-03,Rahul
+716,Yusuf,Female,42,Pune,Maharashtra,Phone,Electronics,3,25000,0,75000,NetBanking,2025-04-08,Ravi
+717,Aarav,Male,43,Pune,Maharashtra,TV,Electronics,1,42000,10,37800,UPI,2025-05-13,Yusuf
+718,Diya,Female,46,Chennai,Tamil Nadu,Phone,Electronics,3,25000,5,71250,UPI,2025-09-04,Priya
+719,Priya,Female,51,Bengaluru,Karnataka,Rice,Grocery,2,1200,15,2040,NetBanking,2025-02-22,Ravi
+720,Anu,Male,44,Hyderabad,Telangana,TV,Electronics,3,42000,5,119700,NetBanking,2025-05-17,Aarav
+721,Rahul,Female,34,Chennai,Tamil Nadu,Watch,Fashion,3,5000,5,14250,NetBanking,2025-09-11,Ahmed
+722,Anu,Male,18,Hyderabad,Telangana,Rice,Grocery,1,1200,0,1200,Cash,2025-11-06,Vijay
+723,Anu,Male,50,Mumbai,Maharashtra,Phone,Electronics,2,25000,15,42500,Cash,2025-11-01,Meena
+724,Rahul,Female,20,Hyderabad,Telangana,Phone,Electronics,3,25000,10,67500,UPI,2025-11-12,Priya
+725,Neha,Female,49,Hyderabad,Telangana,Watch,Fashion,4,5000,20,16000,Card,2025-05-17,Ahmed
+726,Vijay,Female,30,Chennai,Tamil Nadu,Laptop,Electronics,5,55000,5,261250,Card,2025-10-10,Ahmed
+727,Anu,Female,28,Pune,Maharashtra,Rice,Grocery,2,1200,0,2400,UPI,2025-01-08,Yusuf
+728,Rahul,Male,45,Chennai,Tamil Nadu,Table,Furniture,1,7000,5,6650,Cash,2025-11-17,Meena
+729,Ahmed,Female,35,Mumbai,Maharashtra,Laptop,Electronics,3,55000,10,148500,Card,2025-06-02,Vijay
+730,Diya,Male,57,Bengaluru,Karnataka,Watch,Fashion,2,5000,10,9000,Cash,2025-08-25,Meena
+731,Rahul,Female,30,Delhi,Delhi,Rice,Grocery,2,1200,0,2400,Card,2025-06-04,Ravi
+732,Ahmed,Male,34,Pune,Maharashtra,TV,Electronics,1,42000,15,35700,Cash,2025-01-24,Meena
+733,Rahul,Female,21,Delhi,Delhi,Laptop,Electronics,5,55000,15,233750,Card,2025-06-16,Diya
+734,Sneha,Female,29,Hyderabad,Telangana,Shoes,Fashion,4,3000,10,10800,Cash,2025-11-16,Priya
+735,Arjun,Female,47,Pune,Maharashtra,Phone,Electronics,5,25000,10,112500,Cash,2025-12-24,Priya
+736,Anu,Male,48,Bengaluru,Karnataka,Laptop,Electronics,4,55000,5,209000,UPI,2025-04-22,Aarav
+737,Divya,Female,38,Pune,Maharashtra,Phone,Electronics,3,25000,0,75000,Card,2025-05-20,Yusuf
+738,Sneha,Male,52,Bengaluru,Karnataka,Chair,Furniture,5,4500,20,18000,Cash,2025-09-17,Neha
+739,Diya,Male,46,Bengaluru,Karnataka,Rice,Grocery,2,1200,5,2280,UPI,2025-08-31,Ravi
+740,Ahmed,Male,24,Bengaluru,Karnataka,Rice,Grocery,3,1200,5,3420,Card,2025-04-14,Yusuf
+741,Rahul,Female,58,Chennai,Tamil Nadu,Shoes,Fashion,4,3000,15,10200,UPI,2025-08-31,Neha
+742,Priya,Female,59,Mumbai,Maharashtra,Table,Furniture,5,7000,20,28000,NetBanking,2025-08-16,Aarav
+743,Priya,Female,55,Chennai,Tamil Nadu,Rice,Grocery,3,1200,0,3600,Cash,2025-12-07,Arjun
+744,Divya,Male,44,Bengaluru,Karnataka,Shoes,Fashion,2,3000,0,6000,NetBanking,2025-08-28,Divya
+745,Ahmed,Female,56,Mumbai,Maharashtra,Phone,Electronics,4,25000,15,85000,Card,2025-09-16,Diya
+746,Ahmed,Male,23,Delhi,Delhi,Phone,Electronics,3,25000,0,75000,Card,2025-07-10,Priya
+747,Diya,Male,20,Chennai,Tamil Nadu,Table,Furniture,3,7000,5,19950,Card,2025-08-29,Neha
+748,Ahmed,Male,45,Chennai,Tamil Nadu,Shoes,Fashion,1,3000,20,2400,UPI,2025-06-26,Vijay
+749,Meena,Female,19,Hyderabad,Telangana,Phone,Electronics,3,25000,5,71250,UPI,2025-01-28,Ravi
+750,Diya,Male,35,Chennai,Tamil Nadu,Chair,Furniture,4,4500,0,18000,UPI,2025-09-05,Yusuf
+751,Diya,Male,38,Pune,Maharashtra,Phone,Electronics,3,25000,10,67500,Card,2025-12-19,Meena
+752,Diya,Female,23,Hyderabad,Telangana,Watch,Fashion,4,5000,20,16000,Card,2025-06-07,Kiran
+753,Meena,Female,59,Bengaluru,Karnataka,Table,Furniture,1,7000,10,6300,Card,2025-04-07,Aarav
+754,Aarav,Female,28,Chennai,Tamil Nadu,Phone,Electronics,5,25000,10,112500,NetBanking,2025-05-20,Yusuf
+755,Arjun,Female,48,Chennai,Tamil Nadu,Chair,Furniture,1,4500,20,3600,Card,2025-01-18,Arjun
+756,Anu,Male,58,Pune,Maharashtra,Phone,Electronics,3,25000,0,75000,Card,2025-12-04,Yusuf
+757,Diya,Male,30,Hyderabad,Telangana,Laptop,Electronics,5,55000,10,247500,Cash,2025-02-14,Vijay
+758,Ahmed,Female,46,Chennai,Tamil Nadu,Rice,Grocery,5,1200,0,6000,Card,2025-07-28,Vijay
+759,Sneha,Female,30,Mumbai,Maharashtra,Shoes,Fashion,3,3000,10,8100,UPI,2025-09-02,Kiran
+760,Kiran,Male,59,Bengaluru,Karnataka,TV,Electronics,5,42000,10,189000,UPI,2025-02-15,Rahul
+761,Ahmed,Male,19,Bengaluru,Karnataka,Laptop,Electronics,1,55000,10,49500,Cash,2025-08-24,Kiran
+762,Divya,Male,22,Chennai,Tamil Nadu,Table,Furniture,4,7000,0,28000,NetBanking,2025-02-09,Vijay
+763,Neha,Female,30,Bengaluru,Karnataka,Laptop,Electronics,5,55000,0,275000,Card,2025-11-30,Kiran
+764,Kiran,Female,27,Bengaluru,Karnataka,Watch,Fashion,2,5000,15,8500,Card,2025-06-24,Yusuf
+765,Neha,Male,48,Mumbai,Maharashtra,Watch,Fashion,4,5000,20,16000,Cash,2025-06-20,Vijay
+766,Yusuf,Female,26,Mumbai,Maharashtra,Phone,Electronics,4,25000,5,95000,Card,2025-08-13,Ravi
+767,Rahul,Male,28,Pune,Maharashtra,Table,Furniture,5,7000,5,33250,Card,2025-05-30,Arjun
+768,Arjun,Male,31,Bengaluru,Karnataka,Shoes,Fashion,3,3000,15,7650,UPI,2025-01-09,Aarav
+769,Diya,Female,18,Mumbai,Maharashtra,Table,Furniture,3,7000,15,17850,UPI,2025-06-24,Yusuf
+770,Divya,Male,19,Mumbai,Maharashtra,Table,Furniture,5,7000,10,31500,Card,2025-12-13,Yusuf
+771,Neha,Male,53,Chennai,Tamil Nadu,TV,Electronics,5,42000,15,178500,Cash,2025-05-07,Rahul
+772,Ahmed,Male,54,Bengaluru,Karnataka,Chair,Furniture,2,4500,15,7650,Cash,2025-06-21,Kiran
+773,Ahmed,Female,34,Delhi,Delhi,Shoes,Fashion,4,3000,5,11400,Cash,2025-07-10,Ravi
+774,Divya,Female,30,Mumbai,Maharashtra,Watch,Fashion,5,5000,10,22500,Cash,2025-10-22,Diya
+775,Kiran,Male,32,Mumbai,Maharashtra,Chair,Furniture,1,4500,5,4275,UPI,2025-09-26,Ahmed
+776,Aarav,Male,59,Chennai,Tamil Nadu,Phone,Electronics,4,25000,15,85000,Cash,2025-10-25,Meena
+777,Meena,Male,42,Mumbai,Maharashtra,Table,Furniture,4,7000,15,23800,Cash,2025-10-12,Meena
+778,Neha,Male,23,Mumbai,Maharashtra,Shoes,Fashion,4,3000,0,12000,UPI,2025-05-19,Anu
+779,Arjun,Female,27,Pune,Maharashtra,Shoes,Fashion,3,3000,10,8100,UPI,2025-03-30,Yusuf
+780,Yusuf,Male,21,Delhi,Delhi,Table,Furniture,4,7000,20,22400,UPI,2025-04-02,Neha
+781,Diya,Female,39,Hyderabad,Telangana,Shoes,Fashion,3,3000,0,9000,UPI,2025-09-29,Yusuf
+782,Anu,Male,57,Mumbai,Maharashtra,TV,Electronics,4,42000,20,134400,UPI,2025-10-25,Priya
+783,Neha,Male,60,Chennai,Tamil Nadu,Shoes,Fashion,5,3000,15,12750,UPI,2025-02-09,Kiran
+784,Meena,Male,46,Hyderabad,Telangana,Chair,Furniture,5,4500,0,22500,Cash,2025-01-09,Vijay
+785,Ravi,Male,51,Delhi,Delhi,Shoes,Fashion,5,3000,15,12750,UPI,2025-11-16,Anu
+786,Divya,Female,39,Hyderabad,Telangana,Table,Furniture,4,7000,20,22400,Card,2025-08-21,Meena
+787,Ravi,Female,47,Delhi,Delhi,Rice,Grocery,5,1200,0,6000,NetBanking,2025-04-15,Priya
+788,Aarav,Male,22,Chennai,Tamil Nadu,Rice,Grocery,3,1200,5,3420,Cash,2025-11-21,Ahmed
+789,Vijay,Female,32,Hyderabad,Telangana,TV,Electronics,5,42000,15,178500,Cash,2025-08-14,Ahmed
+790,Diya,Male,47,Hyderabad,Telangana,Table,Furniture,1,7000,15,5950,Cash,2025-11-19,Yusuf
+791,Rahul,Female,58,Hyderabad,Telangana,Shoes,Fashion,2,3000,5,5700,Cash,2025-06-27,Meena
+792,Aarav,Male,47,Pune,Maharashtra,Table,Furniture,4,7000,15,23800,Cash,2025-04-15,Aarav
+793,Yusuf,Male,38,Chennai,Tamil Nadu,Phone,Electronics,2,25000,0,50000,UPI,2025-07-18,Ravi
+794,Vijay,Male,60,Chennai,Tamil Nadu,Rice,Grocery,3,1200,20,2880,Cash,2025-12-14,Vijay
+795,Neha,Male,49,Mumbai,Maharashtra,TV,Electronics,5,42000,20,168000,UPI,2025-10-10,Neha
+796,Diya,Female,24,Pune,Maharashtra,TV,Electronics,3,42000,15,107100,Cash,2025-01-02,Divya
+797,Ravi,Female,29,Bengaluru,Karnataka,TV,Electronics,3,42000,10,113400,UPI,2025-07-23,Aarav
+798,Yusuf,Male,60,Hyderabad,Telangana,TV,Electronics,2,42000,10,75600,Cash,2025-04-09,Diya
+799,Kiran,Male,56,Hyderabad,Telangana,TV,Electronics,3,42000,5,119700,UPI,2025-06-26,Meena
+800,Neha,Female,41,Hyderabad,Telangana,Chair,Furniture,5,4500,5,21375,NetBanking,2025-04-24,Anu
+801,Aarav,Male,37,Delhi,Delhi,Rice,Grocery,4,1200,5,4560,NetBanking,2025-05-30,Anu
+802,Divya,Male,32,Bengaluru,Karnataka,Table,Furniture,3,7000,5,19950,Cash,2025-12-13,Anu
+803,Priya,Female,38,Hyderabad,Telangana,Table,Furniture,5,7000,0,35000,UPI,2025-02-20,Meena
+804,Ahmed,Female,18,Pune,Maharashtra,Phone,Electronics,3,25000,0,75000,Card,2025-05-11,Ahmed
+805,Divya,Female,29,Bengaluru,Karnataka,Laptop,Electronics,2,55000,20,88000,NetBanking,2025-09-02,Arjun
+806,Arjun,Female,40,Bengaluru,Karnataka,Chair,Furniture,5,4500,10,20250,Cash,2025-11-27,Anu
+807,Priya,Male,42,Delhi,Delhi,Chair,Furniture,1,4500,15,3825,Cash,2025-07-18,Meena
+808,Neha,Male,18,Mumbai,Maharashtra,Table,Furniture,1,7000,5,6650,UPI,2025-06-07,Ahmed
+809,Sneha,Female,48,Bengaluru,Karnataka,Rice,Grocery,3,1200,10,3240,Cash,2025-02-14,Ahmed
+810,Neha,Male,28,Delhi,Delhi,Phone,Electronics,3,25000,10,67500,UPI,2025-09-09,Sneha
+811,Aarav,Male,44,Pune,Maharashtra,TV,Electronics,5,42000,10,189000,Cash,2025-08-01,Diya
+812,Aarav,Female,56,Mumbai,Maharashtra,Laptop,Electronics,4,55000,0,220000,UPI,2025-08-19,Vijay
+813,Aarav,Male,41,Hyderabad,Telangana,Rice,Grocery,1,1200,10,1080,UPI,2025-05-31,Ahmed
+814,Meena,Male,46,Mumbai,Maharashtra,Watch,Fashion,5,5000,20,20000,NetBanking,2025-02-11,Vijay
+815,Sneha,Male,50,Chennai,Tamil Nadu,Watch,Fashion,3,5000,10,13500,UPI,2025-09-13,Kiran
+816,Rahul,Male,57,Bengaluru,Karnataka,Shoes,Fashion,5,3000,5,14250,Card,2025-02-06,Kiran
+817,Aarav,Male,39,Chennai,Tamil Nadu,Shoes,Fashion,2,3000,10,5400,NetBanking,2025-12-30,Sneha
+818,Vijay,Male,24,Delhi,Delhi,Laptop,Electronics,2,55000,20,88000,UPI,2025-06-09,Ahmed
+819,Ahmed,Male,47,Mumbai,Maharashtra,Laptop,Electronics,3,55000,20,132000,Cash,2025-12-18,Diya
+820,Yusuf,Male,22,Mumbai,Maharashtra,TV,Electronics,5,42000,0,210000,NetBanking,2025-05-05,Ravi
+821,Diya,Male,47,Pune,Maharashtra,Shoes,Fashion,4,3000,0,12000,NetBanking,2025-11-26,Neha
+822,Aarav,Female,28,Mumbai,Maharashtra,Laptop,Electronics,2,55000,10,99000,NetBanking,2025-08-31,Diya
+823,Anu,Male,50,Bengaluru,Karnataka,Watch,Fashion,2,5000,15,8500,NetBanking,2025-10-27,Kiran
+824,Kiran,Female,28,Hyderabad,Telangana,Rice,Grocery,2,1200,5,2280,Cash,2025-09-19,Divya
+825,Rahul,Female,39,Pune,Maharashtra,Phone,Electronics,4,25000,10,90000,NetBanking,2025-06-17,Ravi
+826,Aarav,Female,41,Hyderabad,Telangana,Rice,Grocery,3,1200,5,3420,Cash,2025-01-31,Aarav
+827,Neha,Female,44,Chennai,Tamil Nadu,Shoes,Fashion,5,3000,15,12750,UPI,2025-08-27,Anu
+828,Rahul,Female,51,Delhi,Delhi,Shoes,Fashion,5,3000,0,15000,UPI,2025-10-19,Aarav
+829,Kiran,Female,44,Delhi,Delhi,Rice,Grocery,3,1200,5,3420,NetBanking,2025-12-15,Rahul
+830,Rahul,Male,53,Chennai,Tamil Nadu,Shoes,Fashion,2,3000,20,4800,Cash,2025-11-28,Ahmed
+831,Rahul,Female,44,Pune,Maharashtra,Rice,Grocery,3,1200,20,2880,UPI,2025-07-17,Ahmed
+832,Ravi,Female,51,Chennai,Tamil Nadu,Chair,Furniture,5,4500,15,19125,NetBanking,2025-11-16,Diya
+833,Diya,Female,37,Hyderabad,Telangana,Chair,Furniture,2,4500,10,8100,UPI,2025-03-16,Divya
+834,Priya,Female,55,Delhi,Delhi,Chair,Furniture,5,4500,10,20250,NetBanking,2025-11-10,Ravi
+835,Meena,Female,21,Bengaluru,Karnataka,Phone,Electronics,2,25000,15,42500,Card,2025-11-06,Neha
+836,Arjun,Female,37,Bengaluru,Karnataka,Laptop,Electronics,3,55000,20,132000,Card,2025-03-02,Sneha
+837,Yusuf,Female,24,Hyderabad,Telangana,Table,Furniture,4,7000,15,23800,UPI,2025-06-27,Priya
+838,Divya,Female,19,Pune,Maharashtra,Table,Furniture,3,7000,15,17850,Cash,2025-10-06,Rahul
+839,Ravi,Male,36,Bengaluru,Karnataka,Table,Furniture,2,7000,15,11900,Cash,2025-10-11,Ahmed
+840,Diya,Male,18,Hyderabad,Telangana,Watch,Fashion,3,5000,10,13500,NetBanking,2025-12-24,Vijay
+841,Diya,Male,30,Bengaluru,Karnataka,Laptop,Electronics,3,55000,10,148500,UPI,2025-03-26,Neha
+842,Yusuf,Female,50,Hyderabad,Telangana,TV,Electronics,1,42000,0,42000,Card,2025-09-20,Arjun
+843,Sneha,Female,38,Mumbai,Maharashtra,Laptop,Electronics,2,55000,10,99000,UPI,2025-09-15,Diya
+844,Ravi,Male,45,Pune,Maharashtra,Shoes,Fashion,1,3000,0,3000,NetBanking,2025-10-31,Kiran
+845,Vijay,Female,37,Pune,Maharashtra,Laptop,Electronics,1,55000,15,46750,Card,2025-07-01,Ahmed
+846,Arjun,Male,30,Bengaluru,Karnataka,Rice,Grocery,5,1200,20,4800,Cash,2025-11-26,Ravi
+847,Priya,Male,57,Bengaluru,Karnataka,Watch,Fashion,2,5000,10,9000,UPI,2025-12-23,Arjun
+848,Kiran,Female,26,Bengaluru,Karnataka,Laptop,Electronics,5,55000,0,275000,UPI,2025-04-23,Ahmed
+849,Diya,Male,29,Delhi,Delhi,Table,Furniture,3,7000,15,17850,UPI,2025-06-15,Ahmed
+850,Ahmed,Female,50,Chennai,Tamil Nadu,Table,Furniture,5,7000,15,29750,Card,2025-01-16,Yusuf
+851,Meena,Male,33,Chennai,Tamil Nadu,TV,Electronics,5,42000,20,168000,UPI,2025-09-26,Sneha
+852,Kiran,Male,56,Chennai,Tamil Nadu,Chair,Furniture,3,4500,15,11475,UPI,2025-05-25,Meena
+853,Aarav,Female,25,Mumbai,Maharashtra,Rice,Grocery,4,1200,0,4800,Card,2025-05-14,Divya
+854,Aarav,Male,34,Delhi,Delhi,Watch,Fashion,5,5000,10,22500,Cash,2025-02-11,Kiran
+855,Meena,Male,23,Pune,Maharashtra,Shoes,Fashion,4,3000,15,10200,Cash,2025-01-23,Kiran
+856,Ahmed,Female,57,Mumbai,Maharashtra,Rice,Grocery,2,1200,10,2160,NetBanking,2025-07-22,Vijay
+857,Kiran,Male,32,Pune,Maharashtra,TV,Electronics,5,42000,20,168000,UPI,2025-07-27,Rahul
+858,Anu,Male,54,Bengaluru,Karnataka,Rice,Grocery,5,1200,10,5400,UPI,2025-12-31,Yusuf
+859,Aarav,Male,36,Mumbai,Maharashtra,Shoes,Fashion,3,3000,5,8550,Card,2025-10-28,Divya
+860,Neha,Male,44,Bengaluru,Karnataka,Watch,Fashion,1,5000,20,4000,NetBanking,2025-04-08,Sneha
+861,Arjun,Female,23,Hyderabad,Telangana,Phone,Electronics,3,25000,0,75000,UPI,2025-03-03,Divya
+862,Diya,Female,36,Delhi,Delhi,Chair,Furniture,3,4500,5,12825,Card,2025-03-06,Aarav
+863,Ahmed,Female,23,Bengaluru,Karnataka,Shoes,Fashion,4,3000,15,10200,NetBanking,2025-02-09,Sneha
+864,Yusuf,Male,32,Bengaluru,Karnataka,Watch,Fashion,4,5000,10,18000,Card,2025-03-30,Divya
+865,Anu,Female,18,Pune,Maharashtra,Rice,Grocery,5,1200,0,6000,Cash,2025-05-07,Meena
+866,Sneha,Male,55,Mumbai,Maharashtra,Table,Furniture,2,7000,0,14000,Card,2025-04-11,Aarav
+867,Meena,Female,52,Pune,Maharashtra,Rice,Grocery,3,1200,5,3420,Cash,2025-08-07,Neha
+868,Anu,Male,54,Delhi,Delhi,Shoes,Fashion,1,3000,0,3000,UPI,2025-08-29,Priya
+869,Ahmed,Male,36,Delhi,Delhi,Rice,Grocery,4,1200,20,3840,NetBanking,2025-10-18,Diya
+870,Meena,Female,59,Pune,Maharashtra,Watch,Fashion,5,5000,10,22500,Card,2025-04-05,Meena
+871,Neha,Female,26,Delhi,Delhi,Chair,Furniture,4,4500,0,18000,UPI,2025-06-09,Neha
+872,Rahul,Male,46,Delhi,Delhi,Table,Furniture,3,7000,20,16800,NetBanking,2025-06-30,Divya
+873,Ahmed,Female,35,Mumbai,Maharashtra,Watch,Fashion,2,5000,10,9000,NetBanking,2025-07-24,Diya
+874,Rahul,Female,44,Chennai,Tamil Nadu,Rice,Grocery,1,1200,0,1200,NetBanking,2025-06-15,Priya
+875,Aarav,Female,18,Delhi,Delhi,TV,Electronics,4,42000,20,134400,NetBanking,2025-05-09,Diya
+876,Neha,Female,21,Chennai,Tamil Nadu,Phone,Electronics,5,25000,5,118750,Cash,2025-07-07,Anu
+877,Aarav,Male,23,Mumbai,Maharashtra,TV,Electronics,4,42000,0,168000,UPI,2025-08-11,Diya
+878,Yusuf,Male,18,Hyderabad,Telangana,TV,Electronics,3,42000,5,119700,UPI,2025-09-23,Neha
+879,Rahul,Female,43,Delhi,Delhi,Table,Furniture,3,7000,15,17850,Card,2025-03-30,Yusuf
+880,Divya,Male,57,Hyderabad,Telangana,Chair,Furniture,4,4500,10,16200,Card,2025-05-21,Yusuf
+881,Ravi,Male,32,Hyderabad,Telangana,Chair,Furniture,1,4500,10,4050,Cash,2025-01-06,Rahul
+882,Divya,Female,28,Hyderabad,Telangana,TV,Electronics,3,42000,15,107100,NetBanking,2025-06-09,Vijay
+883,Arjun,Male,44,Mumbai,Maharashtra,Laptop,Electronics,2,55000,15,93500,UPI,2025-08-08,Anu
+884,Arjun,Male,54,Bengaluru,Karnataka,Watch,Fashion,2,5000,5,9500,Cash,2025-03-21,Neha
+885,Vijay,Male,45,Bengaluru,Karnataka,TV,Electronics,1,42000,10,37800,Cash,2025-07-26,Ahmed
+886,Kiran,Female,48,Pune,Maharashtra,Watch,Fashion,3,5000,10,13500,Cash,2025-07-13,Vijay
+887,Yusuf,Female,51,Chennai,Tamil Nadu,Shoes,Fashion,1,3000,5,2850,Card,2025-06-21,Neha
+888,Ravi,Female,54,Delhi,Delhi,TV,Electronics,5,42000,10,189000,NetBanking,2025-11-15,Arjun
+889,Meena,Male,50,Chennai,Tamil Nadu,Chair,Furniture,5,4500,5,21375,Cash,2025-09-13,Arjun
+890,Rahul,Female,22,Delhi,Delhi,Laptop,Electronics,1,55000,10,49500,Card,2025-10-20,Anu
+891,Ahmed,Male,44,Mumbai,Maharashtra,Table,Furniture,3,7000,20,16800,Card,2025-06-18,Priya
+892,Aarav,Male,20,Mumbai,Maharashtra,Laptop,Electronics,3,55000,15,140250,Cash,2025-03-19,Diya
+893,Arjun,Male,53,Bengaluru,Karnataka,Table,Furniture,4,7000,5,26600,Card,2025-11-23,Aarav
+894,Vijay,Female,24,Bengaluru,Karnataka,Shoes,Fashion,5,3000,15,12750,NetBanking,2025-11-20,Sneha
+895,Neha,Male,54,Delhi,Delhi,Shoes,Fashion,1,3000,15,2550,Card,2025-09-26,Divya
+896,Yusuf,Male,29,Delhi,Delhi,Chair,Furniture,4,4500,0,18000,NetBanking,2025-08-01,Arjun
+897,Arjun,Male,28,Delhi,Delhi,TV,Electronics,4,42000,15,142800,NetBanking,2025-09-26,Yusuf
+898,Neha,Female,39,Pune,Maharashtra,Phone,Electronics,1,25000,15,21250,NetBanking,2025-06-23,Anu
+899,Vijay,Female,53,Chennai,Tamil Nadu,Rice,Grocery,5,1200,0,6000,NetBanking,2025-08-10,Meena
+900,Sneha,Female,26,Pune,Maharashtra,Table,Furniture,3,7000,10,18900,NetBanking,2025-10-26,Divya
+901,Ahmed,Male,30,Delhi,Delhi,Phone,Electronics,2,25000,0,50000,Card,2025-03-16,Vijay
+902,Neha,Female,59,Bengaluru,Karnataka,Chair,Furniture,1,4500,5,4275,UPI,2025-12-15,Kiran
+903,Anu,Male,36,Pune,Maharashtra,Phone,Electronics,1,25000,5,23750,UPI,2025-06-08,Kiran
+904,Diya,Male,53,Pune,Maharashtra,Phone,Electronics,1,25000,5,23750,Card,2025-05-12,Sneha
+905,Arjun,Female,46,Delhi,Delhi,Watch,Fashion,3,5000,10,13500,Card,2025-09-02,Anu
+906,Priya,Female,21,Delhi,Delhi,Table,Furniture,2,7000,15,11900,NetBanking,2025-09-18,Ravi
+907,Sneha,Male,28,Delhi,Delhi,Phone,Electronics,4,25000,0,100000,Cash,2025-02-26,Kiran
+908,Aarav,Female,59,Pune,Maharashtra,Phone,Electronics,2,25000,15,42500,Cash,2025-09-09,Neha
+909,Ravi,Female,23,Delhi,Delhi,Table,Furniture,5,7000,20,28000,Cash,2025-03-26,Ravi
+910,Ahmed,Female,28,Pune,Maharashtra,Watch,Fashion,2,5000,20,8000,Card,2025-11-15,Sneha
+911,Anu,Male,30,Hyderabad,Telangana,Laptop,Electronics,4,55000,15,187000,Cash,2025-09-17,Yusuf
+912,Aarav,Male,37,Mumbai,Maharashtra,Phone,Electronics,5,25000,20,100000,Cash,2025-11-12,Meena
+913,Priya,Male,34,Hyderabad,Telangana,Phone,Electronics,2,25000,15,42500,Cash,2025-07-20,Ravi
+914,Anu,Male,45,Bengaluru,Karnataka,Laptop,Electronics,2,55000,0,110000,Cash,2025-07-26,Rahul
+915,Diya,Female,58,Chennai,Tamil Nadu,TV,Electronics,2,42000,15,71400,UPI,2025-07-08,Meena
+916,Vijay,Male,23,Mumbai,Maharashtra,Table,Furniture,3,7000,20,16800,UPI,2025-05-05,Diya
+917,Anu,Female,46,Delhi,Delhi,TV,Electronics,3,42000,20,100800,NetBanking,2025-12-19,Diya
+918,Kiran,Female,34,Delhi,Delhi,Table,Furniture,1,7000,0,7000,UPI,2025-07-31,Vijay
+919,Aarav,Male,22,Mumbai,Maharashtra,Watch,Fashion,2,5000,15,8500,Cash,2025-08-10,Divya
+920,Diya,Male,36,Chennai,Tamil Nadu,Phone,Electronics,2,25000,10,45000,NetBanking,2025-06-30,Sneha
+921,Yusuf,Female,34,Pune,Maharashtra,Chair,Furniture,3,4500,20,10800,UPI,2025-09-01,Yusuf
+922,Vijay,Female,22,Mumbai,Maharashtra,TV,Electronics,3,42000,5,119700,Cash,2025-11-13,Anu
+923,Neha,Male,31,Delhi,Delhi,TV,Electronics,1,42000,15,35700,UPI,2025-06-13,Ravi
+924,Ravi,Male,21,Bengaluru,Karnataka,Laptop,Electronics,4,55000,0,220000,NetBanking,2025-10-30,Diya
+925,Arjun,Male,54,Mumbai,Maharashtra,Laptop,Electronics,1,55000,20,44000,Card,2025-05-18,Divya
+926,Arjun,Male,21,Pune,Maharashtra,Table,Furniture,5,7000,20,28000,NetBanking,2025-07-27,Arjun
+927,Anu,Female,18,Chennai,Tamil Nadu,Laptop,Electronics,1,55000,15,46750,Card,2025-10-03,Kiran
+928,Rahul,Female,42,Chennai,Tamil Nadu,Rice,Grocery,4,1200,5,4560,Card,2025-10-21,Sneha
+929,Kiran,Female,54,Chennai,Tamil Nadu,Watch,Fashion,3,5000,5,14250,UPI,2025-04-29,Ravi
+930,Rahul,Male,34,Mumbai,Maharashtra,Rice,Grocery,4,1200,5,4560,Card,2025-08-10,Yusuf
+931,Divya,Male,54,Chennai,Tamil Nadu,Shoes,Fashion,3,3000,0,9000,Cash,2025-09-23,Ravi
+932,Aarav,Female,42,Hyderabad,Telangana,Watch,Fashion,3,5000,10,13500,Card,2025-10-08,Ahmed
+933,Sneha,Male,52,Delhi,Delhi,Watch,Fashion,2,5000,5,9500,NetBanking,2025-08-08,Rahul
+934,Yusuf,Female,31,Chennai,Tamil Nadu,Phone,Electronics,5,25000,5,118750,NetBanking,2025-07-18,Yusuf
+935,Neha,Female,47,Delhi,Delhi,Table,Furniture,4,7000,0,28000,NetBanking,2025-03-08,Anu
+936,Arjun,Female,38,Mumbai,Maharashtra,Watch,Fashion,4,5000,0,20000,UPI,2025-02-02,Kiran
+937,Rahul,Female,18,Bengaluru,Karnataka,Table,Furniture,3,7000,0,21000,UPI,2025-12-15,Yusuf
+938,Yusuf,Female,26,Hyderabad,Telangana,Chair,Furniture,3,4500,15,11475,NetBanking,2025-02-24,Arjun
+939,Neha,Male,44,Hyderabad,Telangana,Shoes,Fashion,1,3000,10,2700,Card,2025-09-23,Arjun
+940,Arjun,Female,34,Mumbai,Maharashtra,TV,Electronics,1,42000,15,35700,NetBanking,2025-03-12,Divya
+941,Ravi,Male,49,Pune,Maharashtra,Watch,Fashion,4,5000,10,18000,Card,2025-05-05,Meena
+942,Neha,Male,47,Mumbai,Maharashtra,Rice,Grocery,4,1200,10,4320,UPI,2025-08-02,Aarav
+943,Rahul,Female,42,Chennai,Tamil Nadu,Table,Furniture,4,7000,0,28000,Card,2025-10-15,Kiran
+944,Priya,Male,21,Chennai,Tamil Nadu,Watch,Fashion,3,5000,15,12750,UPI,2025-12-12,Neha
+945,Yusuf,Female,43,Delhi,Delhi,Chair,Furniture,3,4500,15,11475,Cash,2025-06-02,Anu
+946,Divya,Male,53,Hyderabad,Telangana,Shoes,Fashion,2,3000,10,5400,Card,2025-05-05,Neha
+947,Anu,Female,20,Hyderabad,Telangana,Rice,Grocery,4,1200,5,4560,NetBanking,2025-07-09,Aarav
+948,Yusuf,Female,34,Pune,Maharashtra,Watch,Fashion,2,5000,0,10000,UPI,2025-07-28,Divya
+949,Sneha,Female,32,Delhi,Delhi,Chair,Furniture,1,4500,20,3600,Cash,2025-04-12,Neha
+950,Vijay,Male,40,Hyderabad,Telangana,Shoes,Fashion,5,3000,0,15000,UPI,2025-05-10,Rahul
+951,Meena,Female,51,Chennai,Tamil Nadu,Laptop,Electronics,4,55000,10,198000,UPI,2025-10-26,Diya
+952,Vijay,Female,25,Pune,Maharashtra,TV,Electronics,4,42000,15,142800,NetBanking,2025-02-12,Kiran
+953,Diya,Female,39,Hyderabad,Telangana,TV,Electronics,4,42000,20,134400,NetBanking,2025-05-06,Diya
+954,Rahul,Male,60,Pune,Maharashtra,TV,Electronics,1,42000,10,37800,UPI,2025-12-24,Vijay
+955,Ravi,Male,38,Hyderabad,Telangana,Table,Furniture,5,7000,5,33250,Card,2025-08-24,Meena
+956,Aarav,Male,36,Pune,Maharashtra,Laptop,Electronics,4,55000,0,220000,NetBanking,2025-01-04,Diya
+957,Sneha,Male,55,Hyderabad,Telangana,Shoes,Fashion,3,3000,20,7200,UPI,2025-11-07,Kiran
+958,Arjun,Male,24,Bengaluru,Karnataka,Chair,Furniture,2,4500,15,7650,Cash,2025-12-09,Priya
+959,Yusuf,Male,52,Mumbai,Maharashtra,Rice,Grocery,1,1200,0,1200,UPI,2025-12-14,Kiran
+960,Diya,Female,38,Mumbai,Maharashtra,Laptop,Electronics,2,55000,10,99000,NetBanking,2025-06-05,Rahul
+961,Meena,Female,50,Bengaluru,Karnataka,Laptop,Electronics,5,55000,15,233750,NetBanking,2025-07-30,Kiran
+962,Kiran,Female,25,Mumbai,Maharashtra,Rice,Grocery,4,1200,5,4560,NetBanking,2025-09-04,Divya
+963,Ahmed,Female,30,Hyderabad,Telangana,Laptop,Electronics,4,55000,0,220000,Card,2025-05-31,Kiran
+964,Aarav,Male,28,Delhi,Delhi,TV,Electronics,5,42000,10,189000,UPI,2025-10-06,Vijay
+965,Divya,Male,31,Chennai,Tamil Nadu,Table,Furniture,1,7000,5,6650,NetBanking,2025-02-05,Kiran
+966,Ravi,Male,47,Chennai,Tamil Nadu,Rice,Grocery,1,1200,5,1140,UPI,2025-09-06,Kiran
+967,Diya,Male,32,Hyderabad,Telangana,Watch,Fashion,4,5000,15,17000,Cash,2025-03-22,Ravi
+968,Meena,Male,31,Bengaluru,Karnataka,Chair,Furniture,2,4500,15,7650,NetBanking,2025-11-20,Kiran
+969,Rahul,Male,37,Mumbai,Maharashtra,Shoes,Fashion,2,3000,10,5400,Cash,2025-01-12,Divya
+970,Anu,Male,33,Pune,Maharashtra,Table,Furniture,5,7000,5,33250,UPI,2025-07-29,Kiran
+971,Aarav,Female,51,Delhi,Delhi,Phone,Electronics,5,25000,20,100000,Card,2025-01-06,Ahmed
+972,Anu,Female,43,Delhi,Delhi,Laptop,Electronics,2,55000,10,99000,Cash,2025-07-21,Aarav
+973,Anu,Male,28,Pune,Maharashtra,Laptop,Electronics,1,55000,0,55000,Cash,2025-10-04,Arjun
+974,Ahmed,Male,35,Pune,Maharashtra,Watch,Fashion,5,5000,10,22500,Card,2025-03-29,Diya
+975,Yusuf,Male,35,Mumbai,Maharashtra,Watch,Fashion,4,5000,10,18000,UPI,2025-10-04,Meena
+976,Anu,Male,25,Chennai,Tamil Nadu,Watch,Fashion,5,5000,0,25000,Card,2025-04-27,Diya
+977,Neha,Male,59,Hyderabad,Telangana,TV,Electronics,2,42000,15,71400,Cash,2025-04-15,Divya
+978,Arjun,Male,51,Mumbai,Maharashtra,Phone,Electronics,3,25000,10,67500,UPI,2025-11-15,Rahul
+979,Aarav,Female,23,Pune,Maharashtra,Rice,Grocery,1,1200,20,960,Cash,2025-01-28,Diya
+980,Yusuf,Female,31,Delhi,Delhi,Laptop,Electronics,3,55000,5,156750,Cash,2025-08-15,Ahmed
+981,Ahmed,Female,21,Mumbai,Maharashtra,Watch,Fashion,3,5000,5,14250,Cash,2025-10-14,Sneha
+982,Vijay,Male,36,Chennai,Tamil Nadu,Chair,Furniture,3,4500,0,13500,UPI,2025-01-12,Ahmed
+983,Neha,Male,45,Hyderabad,Telangana,TV,Electronics,2,42000,5,79800,NetBanking,2025-11-18,Sneha
+984,Ravi,Female,57,Chennai,Tamil Nadu,Watch,Fashion,3,5000,15,12750,Card,2025-06-05,Arjun
+985,Aarav,Female,33,Mumbai,Maharashtra,Chair,Furniture,1,4500,0,4500,NetBanking,2025-12-03,Diya
+986,Neha,Female,47,Hyderabad,Telangana,Laptop,Electronics,1,55000,0,55000,NetBanking,2025-03-02,Ravi
+987,Divya,Female,47,Delhi,Delhi,Phone,Electronics,4,25000,10,90000,NetBanking,2025-02-09,Priya
+988,Priya,Male,33,Hyderabad,Telangana,Phone,Electronics,4,25000,0,100000,Cash,2025-10-11,Diya
+989,Priya,Female,29,Bengaluru,Karnataka,Chair,Furniture,3,4500,15,11475,Cash,2025-06-14,Ahmed
+990,Yusuf,Male,32,Hyderabad,Telangana,TV,Electronics,3,42000,15,107100,Card,2025-06-03,Sneha
+991,Ravi,Female,52,Mumbai,Maharashtra,Table,Furniture,3,7000,20,16800,NetBanking,2025-05-29,Vijay
+992,Divya,Male,51,Mumbai,Maharashtra,Phone,Electronics,3,25000,0,75000,Cash,2025-07-05,Divya
+993,Rahul,Male,25,Bengaluru,Karnataka,TV,Electronics,5,42000,10,189000,Cash,2025-08-08,Anu
+994,Rahul,Female,40,Chennai,Tamil Nadu,Rice,Grocery,2,1200,10,2160,Cash,2025-08-26,Kiran
+995,Aarav,Male,48,Pune,Maharashtra,Table,Furniture,1,7000,0,7000,UPI,2025-01-04,Rahul
+996,Ravi,Male,59,Delhi,Delhi,Shoes,Fashion,1,3000,15,2550,UPI,2025-03-03,Rahul
+997,Aarav,Female,48,Pune,Maharashtra,Rice,Grocery,4,1200,0,4800,Cash,2025-07-25,Yusuf
+998,Aarav,Male,42,Chennai,Tamil Nadu,Phone,Electronics,4,25000,10,90000,Card,2025-08-24,Neha
+999,Yusuf,Male,29,Bengaluru,Karnataka,Shoes,Fashion,4,3000,5,11400,UPI,2025-09-10,Kiran
+1000,Vijay,Male,46,Bengaluru,Karnataka,Chair,Furniture,1,4500,0,4500,NetBanking,2025-09-01,Aarav

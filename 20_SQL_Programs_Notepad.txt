@@ -1,0 +1,44 @@
+PROGRAM 1: Create Database Query: CREATE DATABASE College;
+
+PROGRAM 2: Use Database Query: USE College;
+
+PROGRAM 3: Create Table Query: CREATE TABLE Student(id INT PRIMARY
+KEY,name VARCHAR(50),age INT);
+
+PROGRAM 4: Insert Query: INSERT INTO Student VALUES(1,‘Ram’,20);
+
+PROGRAM 5: Select All Query: SELECT * FROM Student;
+
+PROGRAM 6: Where Query: SELECT * FROM Student WHERE age>18;
+
+PROGRAM 7: Order By Query: SELECT * FROM Student ORDER BY name;
+
+PROGRAM 8: Distinct Query: SELECT DISTINCT age FROM Student;
+
+PROGRAM 9: Update Query: UPDATE Student SET age=21 WHERE id=1;
+
+PROGRAM 10: Delete Query: DELETE FROM Student WHERE id=1;
+
+PROGRAM 11: Count Query: SELECT COUNT(*) FROM Student;
+
+PROGRAM 12: Sum Query: SELECT SUM(age) FROM Student;
+
+PROGRAM 13: Avg Query: SELECT AVG(age) FROM Student;
+
+PROGRAM 14: Max Query: SELECT MAX(age) FROM Student;
+
+PROGRAM 15: Min Query: SELECT MIN(age) FROM Student;
+
+PROGRAM 16: Group By Query: SELECT age,COUNT(*) FROM Student GROUP BY
+age;
+
+PROGRAM 17: Having Query: SELECT age,COUNT() FROM Student GROUP BY age
+HAVING COUNT()>1;
+
+PROGRAM 18: Inner Join Query: SELECT * FROM Student s INNER JOIN Dept d
+ON s.id=d.id;
+
+PROGRAM 19: Left Join Query: SELECT * FROM Student s LEFT JOIN Dept d ON
+s.id=d.id;
+
+PROGRAM 20: Drop Table Query: DROP TABLE Student;
